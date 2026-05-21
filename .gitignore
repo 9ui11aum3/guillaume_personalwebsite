@@ -1,0 +1,33 @@
+# Dependencies
+vendor/
+node_modules/
+
+# Environment / secrets
+.env
+.env.local
+*.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.min.css.map
+*.min.js.map
+
+# Logs
+*.log
+error_log
+
+# OS
+desktop.ini
+
+# Private assets (à ajouter si besoin)
+# assets/img/private/
+
+# Composer
+composer.lock
