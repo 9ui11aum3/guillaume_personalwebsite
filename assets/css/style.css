@@ -1134,10 +1134,10 @@ noscript .noscript-only {
   filter: blur(16px);
 }
 
-/* Structures — SYIT + Odonaview */
+/* Structures — SYIT + Odonaview — égales */
 .structures-grid {
   display: grid;
-  grid-template-columns: 3fr 2fr;
+  grid-template-columns: 1fr 1fr;
   gap: var(--space-xl);
 }
 

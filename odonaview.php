@@ -17,7 +17,7 @@ include __DIR__ . '/includes/header.php';
 
     <!-- Logo -->
     <div style="display:inline-flex;align-items:center;gap:var(--space-md);margin-bottom:var(--space-xl);">
-      <img src="/assets/img/logos/odonaview.png" alt="Logo Odonaview" height="56" width="auto" fetchpriority="high" data-fallback="Odonaview">
+      <img src="/assets/img/logos/odonaview.svg" alt="Logo Odonaview" height="56" width="auto" fetchpriority="high" data-fallback="Odonaview">
     </div>
 
     <h1 class="fade-up" style="margin-bottom:var(--space-lg);">

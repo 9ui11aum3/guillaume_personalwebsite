@@ -70,7 +70,7 @@ include __DIR__ . '/includes/header.php';
             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="2" y="3" width="20" height="14" rx="2"/><path d="M8 21h8M12 17v4"/></svg>
             Découvrir SYIT
           </a>
-          <a href="/odonaview" class="btn btn-secondary">
+          <a href="/odonaview" class="btn btn-primary">
             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="M8 12l3 3 5-5"/></svg>
             Découvrir Odonaview
           </a>
@@ -120,11 +120,10 @@ include __DIR__ . '/includes/header.php';
 
     <div class="structures-grid stagger-children">
 
-      <!-- SYIT — priorité n°1 -->
-      <article class="company-card priority" aria-label="SYIT">
+      <!-- SYIT -->
+      <article class="company-card" aria-label="SYIT">
         <div style="display:flex;align-items:center;gap:var(--space-lg);margin-bottom:var(--space-xl);">
           <img src="/assets/img/logos/syit.svg" alt="Logo SYIT" class="company-logo" width="120" height="48" data-fallback="SYIT">
-          <span class="badge badge-green" style="margin-left:auto;">Priorité #1</span>
         </div>
 
         <h3 style="margin-bottom:var(--space-sm);">Bureau d'étude IT &amp; Infrastructure</h3>
@@ -150,7 +149,7 @@ include __DIR__ . '/includes/header.php';
       <!-- ODONAVIEW -->
       <article class="company-card" aria-label="Odonaview">
         <div style="display:flex;align-items:center;gap:var(--space-lg);margin-bottom:var(--space-xl);">
-          <img src="/assets/img/logos/odonaview.png" alt="Logo Odonaview" class="company-logo" width="140" height="48" data-fallback="Odonaview">
+          <img src="/assets/img/logos/odonaview.svg" alt="Logo Odonaview" class="company-logo" width="140" height="48" data-fallback="Odonaview">
         </div>
 
         <h3 style="margin-bottom:var(--space-sm);">IA de vision pour sites critiques</h3>
@@ -165,7 +164,7 @@ include __DIR__ . '/includes/header.php';
           <span class="badge badge-neutral">Défense</span>
         </div>
 
-        <a href="/odonaview" class="btn btn-secondary">
+        <a href="/odonaview" class="btn btn-primary">
           Découvrir Odonaview
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
         </a>
