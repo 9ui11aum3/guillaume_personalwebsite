@@ -49,49 +49,42 @@ include __DIR__ . '/includes/header.php';
       <div class="hero-content">
         <p class="hero-eyebrow fade-up">// entrepreneur · architecte · directeur général</p>
 
-        <h1 class="hero-name fade-up" style="transition-delay:80ms;">
+        <h1 class="hero-name fade-up" style="--anim-delay:80ms;">
           Guillaume<br>
           <span class="gradient-text">ROBIER</span>
         </h1>
 
-        <p class="hero-subtitle fade-up" style="transition-delay:160ms;">
+        <p class="hero-subtitle fade-up" style="--anim-delay:160ms;">
           Entrepreneur IT · Architecte d'infrastructures · Conseil stratégique
         </p>
 
-        <div class="hero-tags fade-up" style="transition-delay:240ms;">
+        <div class="hero-tags fade-up" style="--anim-delay:240ms;">
           <span class="badge badge-accent">Sécurité</span>
           <span class="badge badge-rose">Cloud &amp; infra</span>
           <span class="badge badge-cyan">Stratégie</span>
           <span class="badge badge-green">BGP AS61193</span>
         </div>
 
-        <div class="hero-ctas fade-up" style="transition-delay:320ms;">
+        <div class="hero-ctas fade-up" style="--anim-delay:320ms;">
           <a href="/syit" class="btn btn-primary">
             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="2" y="3" width="20" height="14" rx="2"/><path d="M8 21h8M12 17v4"/></svg>
             Découvrir SYIT
           </a>
-          <?php echo mailto_link('Me contacter', 'btn btn-secondary'); ?>
+          <a href="/odonaview" class="btn btn-secondary">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="M8 12l3 3 5-5"/></svg>
+            Découvrir Odonaview
+          </a>
         </div>
       </div>
 
       <!-- Photo -->
-      <div class="hero-photo-wrap fade-up" style="transition-delay:200ms;">
-        <?php
-        $photoPath = '/assets/img/photo/guillaume_robier.png';
-        $photoFull = __DIR__ . $photoPath;
-        if (file_exists($photoFull) && filesize($photoFull) > 1000): ?>
-          <img src="<?= e($photoPath) ?>"
-               alt="Guillaume Robier — Entrepreneur IT, dirigeant SYIT et Odonaview"
-               class="hero-photo"
-               width="280" height="280"
-               fetchpriority="high">
-        <?php else: ?>
-          <div class="hero-photo" style="background:linear-gradient(135deg,rgba(99,102,241,0.2),rgba(236,72,153,0.15));display:flex;align-items:center;justify-content:center;">
-            <svg width="80" height="80" viewBox="0 0 24 24" fill="none" stroke="rgba(99,102,241,0.6)" stroke-width="1" aria-label="Photo Guillaume Robier">
-              <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/>
-            </svg>
-          </div>
-        <?php endif; ?>
+      <div class="hero-photo-wrap fade-up" style="--anim-delay:200ms;">
+        <img src="/assets/img/photo/guillaume_robier.png"
+             alt="Guillaume Robier — Entrepreneur IT, dirigeant SYIT et Odonaview"
+             class="hero-photo"
+             width="280" height="280"
+             data-fallback="Guillaume Robier"
+             fetchpriority="high">
       </div>
 
     </div>
@@ -130,16 +123,7 @@ include __DIR__ . '/includes/header.php';
       <!-- SYIT — priorité n°1 -->
       <article class="company-card priority" aria-label="SYIT">
         <div style="display:flex;align-items:center;gap:var(--space-lg);margin-bottom:var(--space-xl);">
-          <?php
-          $syitLogo = __DIR__ . '/assets/img/logos/syit.svg';
-          if (file_exists($syitLogo) && filesize($syitLogo) > 100): ?>
-            <img src="/assets/img/logos/syit.svg" alt="Logo SYIT" class="company-logo" width="120" height="48">
-          <?php else: ?>
-            <div style="display:flex;align-items:center;gap:8px;">
-              <div style="width:40px;height:40px;border-radius:8px;background:var(--gradient-primary);display:flex;align-items:center;justify-content:center;font-weight:800;font-family:var(--font-mono);font-size:0.75rem;color:#fff;">SY</div>
-              <span style="font-size:1.5rem;font-weight:800;letter-spacing:-0.02em;color:var(--text-primary);">SYIT</span>
-            </div>
-          <?php endif; ?>
+          <img src="/assets/img/logos/syit.svg" alt="Logo SYIT" class="company-logo" width="120" height="48" data-fallback="SYIT">
           <span class="badge badge-green" style="margin-left:auto;">Priorité #1</span>
         </div>
 
@@ -166,16 +150,7 @@ include __DIR__ . '/includes/header.php';
       <!-- ODONAVIEW -->
       <article class="company-card" aria-label="Odonaview">
         <div style="display:flex;align-items:center;gap:var(--space-lg);margin-bottom:var(--space-xl);">
-          <?php
-          $odoLogo = __DIR__ . '/assets/img/logos/odonaview.png';
-          if (file_exists($odoLogo) && filesize($odoLogo) > 100): ?>
-            <img src="/assets/img/logos/odonaview.png" alt="Logo Odonaview" class="company-logo" width="140" height="48">
-          <?php else: ?>
-            <div style="display:flex;align-items:center;gap:8px;">
-              <div style="width:40px;height:40px;border-radius:8px;background:linear-gradient(135deg,#06b6d4,#6366f1);display:flex;align-items:center;justify-content:center;font-weight:800;font-family:var(--font-mono);font-size:0.65rem;color:#fff;">OV</div>
-              <span style="font-size:1.5rem;font-weight:800;letter-spacing:-0.02em;color:var(--text-primary);">Odonaview</span>
-            </div>
-          <?php endif; ?>
+          <img src="/assets/img/logos/odonaview.png" alt="Logo Odonaview" class="company-logo" width="140" height="48" data-fallback="Odonaview">
         </div>
 
         <h3 style="margin-bottom:var(--space-sm);">IA de vision pour sites critiques</h3>
@@ -304,14 +279,13 @@ include __DIR__ . '/includes/header.php';
 
     <div class="clients-band">
       <?php foreach ($clients as $c): ?>
-        <?php
-        $logoFull = __DIR__ . $c['logo'];
-        if (!empty($c['logo']) && file_exists($logoFull) && filesize($logoFull) > 100): ?>
+        <?php if (!empty($c['logo'])): ?>
           <img src="<?= e($c['logo']) ?>"
                alt="<?= e($c['name']) ?>"
                class="client-logo"
                height="36"
-               loading="lazy">
+               loading="lazy"
+               data-fallback="<?= e($c['name']) ?>">
         <?php else: ?>
           <span class="tech-badge" style="opacity:0.5;"><?= e($c['name']) ?></span>
         <?php endif; ?>

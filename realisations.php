@@ -16,7 +16,7 @@ include __DIR__ . '/includes/header.php';
   <div class="container" style="position:relative;z-index:1;">
     <span style="display:block;font-family:var(--font-mono);font-size:0.75rem;font-weight:600;letter-spacing:0.15em;text-transform:uppercase;color:var(--accent-1);margin-bottom:var(--space-sm);">// portfolio</span>
     <h1 class="fade-up" style="margin-bottom:var(--space-lg);">Réalisations <span class="gradient-text">marquantes</span></h1>
-    <p class="lead fade-up" style="max-width:560px;margin-inline:auto;transition-delay:80ms;">
+    <p class="lead fade-up" style="max-width:560px;margin-inline:auto;--anim-delay:80ms;">
       Projets concrets, résultats mesurables. Infrastructure, sécurité, IA, ERP — des mandats variés avec des clients exigeants.
     </p>
   </div>

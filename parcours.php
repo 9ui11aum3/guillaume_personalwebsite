@@ -16,7 +16,7 @@ include __DIR__ . '/includes/header.php';
   <div class="container" style="position:relative;z-index:1;">
     <span style="display:block;font-family:var(--font-mono);font-size:0.75rem;font-weight:600;letter-spacing:0.15em;text-transform:uppercase;color:var(--accent-1);margin-bottom:var(--space-sm);">// curriculum vitæ</span>
     <h1 class="fade-up" style="margin-bottom:var(--space-lg);">Parcours <span class="gradient-text">&amp; Formation</span></h1>
-    <p class="lead fade-up" style="max-width:560px;margin-inline:auto;transition-delay:80ms;">
+    <p class="lead fade-up" style="max-width:560px;margin-inline:auto;--anim-delay:80ms;">
       10 ans d'expérience dans l'ingénierie IT, de la R&D industrielle à la direction générale de PME tech.
     </p>
   </div>

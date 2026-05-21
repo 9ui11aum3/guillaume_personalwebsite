@@ -17,14 +17,7 @@ include __DIR__ . '/includes/header.php';
 
     <!-- Logo -->
     <div style="display:inline-flex;align-items:center;gap:var(--space-md);margin-bottom:var(--space-xl);">
-      <?php
-      $odoLogo = __DIR__ . '/assets/img/logos/odonaview.png';
-      if (file_exists($odoLogo) && filesize($odoLogo) > 100): ?>
-        <img src="/assets/img/logos/odonaview.png" alt="Logo Odonaview" height="56" width="auto" fetchpriority="high">
-      <?php else: ?>
-        <div style="width:56px;height:56px;border-radius:12px;background:linear-gradient(135deg,#06b6d4,#6366f1);display:flex;align-items:center;justify-content:center;font-weight:800;font-family:var(--font-mono);font-size:0.875rem;color:#fff;flex-shrink:0;">OV</div>
-        <span style="font-size:2.5rem;font-weight:800;letter-spacing:-0.03em;color:var(--text-primary);">Odonaview</span>
-      <?php endif; ?>
+      <img src="/assets/img/logos/odonaview.png" alt="Logo Odonaview" height="56" width="auto" fetchpriority="high" data-fallback="Odonaview">
     </div>
 
     <h1 class="fade-up" style="margin-bottom:var(--space-lg);">
@@ -32,7 +25,7 @@ include __DIR__ . '/includes/header.php';
       <span style="background:linear-gradient(135deg,#06b6d4,#6366f1);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;">infrastructures critiques</span>
     </h1>
 
-    <p class="lead fade-up" style="max-width:580px;margin-inline:auto;transition-delay:100ms;">
+    <p class="lead fade-up" style="max-width:580px;margin-inline:auto;--anim-delay:100ms;">
       Héritière du savoir-faire français d'Evitech depuis 2005 —
       détection d'intrusion périmétrique et analyse intelligente de flux
       pour les sites à plus haute criticité.
@@ -92,25 +85,15 @@ include __DIR__ . '/includes/header.php';
         </blockquote>
       </div>
 
-      <div class="fade-up" style="transition-delay:150ms;">
-        <?php
-        $photo = __DIR__ . '/assets/img/photo/guillaume_robier.png';
-        if (file_exists($photo) && filesize($photo) > 1000): ?>
-          <img src="/assets/img/photo/guillaume_robier.png"
-               alt="Guillaume Robier, Directeur Général d'Odonaview"
-               style="width:100%;max-width:420px;border-radius:var(--radius-xl);border:1px solid rgba(6,182,212,0.3);box-shadow:0 8px 32px rgba(0,0,0,0.5);"
-               loading="lazy">
-          <p style="font-size:0.75rem;color:var(--text-muted);text-align:center;margin-top:var(--space-sm);">
-            Guillaume Robier — Directeur Général, Odonaview
-          </p>
-        <?php else: ?>
-          <div style="background:rgba(6,182,212,0.06);border:1px solid rgba(6,182,212,0.15);border-radius:var(--radius-xl);padding:var(--space-3xl);text-align:center;">
-            <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="rgba(6,182,212,0.4)" stroke-width="1" style="margin-inline:auto;margin-bottom:var(--space-md);" aria-hidden="true">
-              <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/>
-            </svg>
-            <p style="font-size:0.875rem;color:var(--text-muted);">Guillaume Robier<br>Directeur Général, Odonaview</p>
-          </div>
-        <?php endif; ?>
+      <div class="fade-up" style="--anim-delay:150ms;">
+        <img src="/assets/img/photo/guillaume_robier.png"
+             alt="Guillaume Robier, Directeur Général d'Odonaview"
+             style="width:100%;max-width:420px;border-radius:var(--radius-xl);border:1px solid rgba(6,182,212,0.3);box-shadow:0 8px 32px rgba(0,0,0,0.5);"
+             loading="lazy"
+             data-fallback="Guillaume Robier">
+        <p style="font-size:0.75rem;color:var(--text-muted);text-align:center;margin-top:var(--space-sm);">
+          Guillaume Robier — Directeur Général, Odonaview
+        </p>
       </div>
 
     </div>

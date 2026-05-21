@@ -16,7 +16,7 @@ include __DIR__ . '/includes/header.php';
   <div class="container" style="position:relative;z-index:1;">
     <span style="display:block;font-family:var(--font-mono);font-size:0.75rem;font-weight:600;letter-spacing:0.15em;text-transform:uppercase;color:var(--accent-1);margin-bottom:var(--space-sm);">// domaines d'expertise</span>
     <h1 class="fade-up" style="margin-bottom:var(--space-lg);">Expertise <span class="gradient-text">technique & stratégique</span></h1>
-    <p class="lead fade-up" style="max-width:580px;margin-inline:auto;transition-delay:80ms;">
+    <p class="lead fade-up" style="max-width:580px;margin-inline:auto;--anim-delay:80ms;">
       Cinq domaines de maîtrise, consolidés par 10 ans de missions sur le terrain,
       de la PME au grand compte industriel.
     </p>
@@ -72,7 +72,7 @@ include __DIR__ . '/includes/header.php';
         </div>
 
         <!-- Colonne droite : missions -->
-        <div class="fade-up" style="transition-delay:100ms;">
+        <div class="fade-up" style="--anim-delay:100ms;">
           <div class="card card-gradient" style="padding:var(--space-xl);">
             <p style="font-size:0.75rem;font-family:var(--font-mono);font-weight:600;text-transform:uppercase;letter-spacing:0.1em;color:<?= $color ?>;margin-bottom:var(--space-lg);">Missions proposées</p>
             <ul class="expertise-missions">

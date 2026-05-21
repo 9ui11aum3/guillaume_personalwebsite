@@ -5,78 +5,70 @@
 (function () {
   'use strict';
 
-  // ── Scroll animations (Intersection Observer) ────────────
-  const fadeEls = document.querySelectorAll('.fade-up');
-  if (fadeEls.length && 'IntersectionObserver' in window) {
-    const observer = new IntersectionObserver(
-      (entries) => {
-        entries.forEach((entry) => {
-          if (entry.isIntersecting) {
-            entry.target.classList.add('visible');
-            observer.unobserve(entry.target);
-          }
-        });
-      },
-      { threshold: 0.1, rootMargin: '0px 0px -40px 0px' }
-    );
-    fadeEls.forEach((el) => observer.observe(el));
-  } else {
-    fadeEls.forEach((el) => el.classList.add('visible'));
-  }
-
-  // ── Nav scroll effect ─────────────────────────────────────
+  // Nav scroll effect
   const nav = document.querySelector('.site-nav');
   if (nav) {
-    const handleScroll = () => {
+    window.addEventListener('scroll', function() {
       nav.classList.toggle('scrolled', window.scrollY > 32);
-    };
-    window.addEventListener('scroll', handleScroll, { passive: true });
+    }, { passive: true });
   }
 
-  // ── Mobile nav toggle ─────────────────────────────────────
+  // Mobile nav toggle
   const toggle = document.querySelector('.nav-toggle');
   const navLinks = document.querySelector('.nav-links');
   if (toggle && navLinks) {
-    toggle.addEventListener('click', () => {
+    toggle.addEventListener('click', function() {
       const expanded = toggle.getAttribute('aria-expanded') === 'true';
       toggle.setAttribute('aria-expanded', String(!expanded));
       navLinks.classList.toggle('open', !expanded);
       document.body.style.overflow = !expanded ? 'hidden' : '';
     });
-
-    // Close on link click
-    navLinks.querySelectorAll('a').forEach((link) => {
-      link.addEventListener('click', () => {
+    navLinks.querySelectorAll('a').forEach(function(link) {
+      link.addEventListener('click', function() {
         toggle.setAttribute('aria-expanded', 'false');
         navLinks.classList.remove('open');
         document.body.style.overflow = '';
       });
     });
-
-    // Close on Escape
-    document.addEventListener('keydown', (e) => {
+    document.addEventListener('keydown', function(e) {
       if (e.key === 'Escape' && navLinks.classList.contains('open')) {
         toggle.setAttribute('aria-expanded', 'false');
         navLinks.classList.remove('open');
         document.body.style.overflow = '';
-        toggle.focus();
       }
     });
   }
 
-  // ── Active nav link ───────────────────────────────────────
-  const currentPath = window.location.pathname.replace(/\.php$/, '').replace(/\/$/, '') || '/index';
-  document.querySelectorAll('.nav-links a').forEach((link) => {
-    const href = link.getAttribute('href').replace(/\.php$/, '').replace(/\/$/, '') || '/index';
-    if (currentPath === href || (currentPath === '' && href === '/index')) {
+  // Active nav link
+  const currentPath = window.location.pathname.replace(/\.php$/, '');
+  document.querySelectorAll('.nav-links a[href]').forEach(function(link) {
+    const href = link.getAttribute('href').replace(/\.php$/, '');
+    if (currentPath === href || (currentPath === '/' && href === '/') || (currentPath === '' && href === '/')) {
       link.classList.add('active');
     }
   });
 
-  // ── Staggered fade-in for grid children ──────────────────
-  document.querySelectorAll('.stagger-children > *').forEach((child, i) => {
-    child.style.transitionDelay = `${i * 80}ms`;
-    child.classList.add('fade-up');
+  // Stagger animation delays for grid children (CSS animation)
+  document.querySelectorAll('.stagger-children').forEach(function(container) {
+    Array.from(container.children).forEach(function(child, i) {
+      child.style.setProperty('--anim-delay', (i * 80) + 'ms');
+      child.classList.add('fade-up');
+    });
+  });
+
+  // Image error fallback
+  document.querySelectorAll('img[data-fallback]').forEach(function(img) {
+    img.addEventListener('error', function() {
+      const label = img.getAttribute('data-fallback');
+      const parent = img.parentNode;
+      const svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+      svg.setAttribute('width', img.width || 120);
+      svg.setAttribute('height', img.height || 48);
+      svg.setAttribute('viewBox', '0 0 120 48');
+      svg.setAttribute('aria-label', label);
+      svg.innerHTML = '<rect width="120" height="48" rx="6" fill="#6366f1" fill-opacity="0.12" stroke="#6366f1" stroke-width="1.5"/><text x="60" y="28" dominant-baseline="middle" text-anchor="middle" fill="#6366f1" font-family="Inter,sans-serif" font-size="11" font-weight="600">' + label + '</text>';
+      parent.replaceChild(svg, img);
+    });
   });
 
 })();

@@ -16,26 +16,19 @@ include __DIR__ . '/includes/header.php';
   <div class="container" style="position:relative;z-index:1;">
 
     <div style="display:inline-flex;align-items:center;gap:var(--space-sm);margin-bottom:var(--space-xl);">
-      <?php
-      $syitLogo = __DIR__ . '/assets/img/logos/syit.svg';
-      if (file_exists($syitLogo) && filesize($syitLogo) > 100): ?>
-        <img src="/assets/img/logos/syit.svg" alt="Logo SYIT" height="56" width="auto" fetchpriority="high">
-      <?php else: ?>
-        <div style="width:56px;height:56px;border-radius:12px;background:var(--gradient-primary);display:flex;align-items:center;justify-content:center;font-weight:800;font-family:var(--font-mono);font-size:0.875rem;color:#fff;flex-shrink:0;">SY</div>
-        <span style="font-size:2.5rem;font-weight:800;letter-spacing:-0.03em;" class="gradient-text">SYIT</span>
-      <?php endif; ?>
+      <img src="/assets/img/logos/syit.svg" alt="Logo SYIT" height="56" width="auto" fetchpriority="high" data-fallback="SYIT">
     </div>
 
     <h1 class="fade-up" style="margin-bottom:var(--space-lg);">
       Bureau d'étude IT<br>
       <span class="gradient-text">Systèmes · Réseaux · Sécurité</span>
     </h1>
-    <p class="lead fade-up" style="max-width:600px;margin-inline:auto;transition-delay:100ms;">
+    <p class="lead fade-up" style="max-width:600px;margin-inline:auto;--anim-delay:100ms;">
       Conception et opération d'infrastructures IT performantes, résilientes et sécurisées
       pour les PME et grands comptes. Approche pragmatique terrain, résultats mesurables.
     </p>
 
-    <div style="display:flex;gap:var(--space-md);justify-content:center;flex-wrap:wrap;margin-top:var(--space-2xl);" class="fade-up" style="transition-delay:200ms;">
+    <div style="display:flex;gap:var(--space-md);justify-content:center;flex-wrap:wrap;margin-top:var(--space-2xl);" class="fade-up" style="--anim-delay:200ms;">
       <?php echo mailto_link('Contacter SYIT', 'btn btn-primary'); ?>
       <a href="#services" class="btn btn-secondary">Voir les services</a>
     </div>
@@ -179,10 +172,8 @@ include __DIR__ . '/includes/header.php';
         <div class="tech-grid">
           <?php foreach ($items as $tech): ?>
             <div class="tech-badge">
-              <?php
-              $logoFull = __DIR__ . $tech['logo'];
-              if (!empty($tech['logo']) && file_exists($logoFull) && filesize($logoFull) > 100): ?>
-                <img src="<?= e($tech['logo']) ?>" alt="<?= e($tech['name']) ?>" width="20" height="20" style="object-fit:contain;">
+              <?php if (!empty($tech['logo'])): ?>
+                <img src="<?= e($tech['logo']) ?>" alt="<?= e($tech['name']) ?>" width="20" height="20" style="object-fit:contain;" data-fallback="<?= e(substr($tech['name'],0,2)) ?>">
               <?php else: ?>
                 <div style="width:20px;height:20px;border-radius:4px;background:rgba(99,102,241,0.2);display:flex;align-items:center;justify-content:center;font-size:0.6rem;font-weight:700;color:var(--accent-1);"><?= e(substr($tech['name'],0,2)) ?></div>
               <?php endif; ?>
