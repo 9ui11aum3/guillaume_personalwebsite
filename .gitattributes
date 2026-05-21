@@ -1,0 +1,31 @@
+# Normalisation des fins de ligne
+* text=auto
+
+# Scripts shell — toujours LF
+*.sh text eol=lf
+
+# PHP, HTML, CSS, JS — LF
+*.php text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.xml text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.htaccess text eol=lf
+*.svg text eol=lf
+
+# Binaires — ne pas toucher
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.eot binary
+*.pdf binary
