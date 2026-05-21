@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /includes/
+Disallow: /scripts/
+Disallow: /.git/
+
+Sitemap: https://guillaume.robier.org/sitemap.xml

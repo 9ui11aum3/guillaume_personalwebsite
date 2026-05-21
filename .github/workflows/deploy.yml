@@ -1,0 +1,111 @@
+name: Deploy — guillaume.robier.org
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  # ─── Lint PHP ───────────────────────────────────────────────
+  lint:
+    name: Lint PHP
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup PHP 8.2
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.2'
+          tools: none
+
+      - name: Lint PHP files
+        run: |
+          echo "🔍 Vérification de la syntaxe PHP..."
+          errors=0
+          while IFS= read -r -d '' file; do
+            if ! php -l "$file" > /dev/null 2>&1; then
+              php -l "$file"
+              errors=$((errors + 1))
+            fi
+          done < <(find . -name "*.php" -not -path "./vendor/*" -print0)
+          if [ "$errors" -gt 0 ]; then
+            echo "❌ $errors fichier(s) PHP avec des erreurs de syntaxe"
+            exit 1
+          fi
+          echo "✅ Tous les fichiers PHP sont valides"
+
+      - name: Check HTML structure (basic)
+        run: |
+          echo "🔍 Vérification HTML basique..."
+          for f in *.php includes/*.php; do
+            [ -f "$f" ] || continue
+            # Vérifier l'absence d'email en clair dans le HTML
+            if grep -q "guillaume@robier.org" "$f"; then
+              echo "⚠️  Email en clair détecté dans $f — à obfusquer"
+            fi
+          done
+          echo "✅ Vérification HTML terminée"
+
+  # ─── Deploy via rsync/SFTP ──────────────────────────────────
+  deploy:
+    name: Deploy to server
+    needs: lint
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Check deploy secrets
+        id: check_secrets
+        run: |
+          if [ -z "${{ secrets.DEPLOY_HOST }}" ]; then
+            echo "configured=false" >> "$GITHUB_OUTPUT"
+            echo "⚠️  Secrets de déploiement non configurés — skip du déploiement"
+            echo "   Pour activer le déploiement automatique, configurer les secrets GitHub :"
+            echo "   DEPLOY_HOST, DEPLOY_USER, DEPLOY_SSH_KEY, DEPLOY_PATH"
+          else
+            echo "configured=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Setup SSH
+        if: steps.check_secrets.outputs.configured == 'true'
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.DEPLOY_SSH_KEY }}" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan -H "${{ secrets.DEPLOY_HOST }}" >> ~/.ssh/known_hosts 2>/dev/null
+
+      - name: Deploy via rsync
+        if: steps.check_secrets.outputs.configured == 'true'
+        env:
+          DEPLOY_HOST: ${{ secrets.DEPLOY_HOST }}
+          DEPLOY_USER: ${{ secrets.DEPLOY_USER }}
+          DEPLOY_PATH: ${{ secrets.DEPLOY_PATH }}
+        run: |
+          echo "🚀 Déploiement vers $DEPLOY_USER@$DEPLOY_HOST:$DEPLOY_PATH"
+          rsync -avz --delete \
+            --exclude='.git/' \
+            --exclude='.github/' \
+            --exclude='.gitignore' \
+            --exclude='scripts/' \
+            --exclude='README.md' \
+            --exclude='node_modules/' \
+            --exclude='*.sh' \
+            --exclude='*.log' \
+            -e "ssh -i ~/.ssh/id_rsa -o StrictHostKeyChecking=no" \
+            ./ "$DEPLOY_USER@$DEPLOY_HOST:$DEPLOY_PATH"
+          echo "✅ Déploiement terminé"
+
+      - name: Notify skip
+        if: steps.check_secrets.outputs.configured == 'false'
+        run: |
+          echo "ℹ️  Déploiement ignoré — configurer les secrets GitHub pour activer"
+          echo "   Secrets requis :"
+          echo "     DEPLOY_HOST     — hostname ou IP du serveur"
+          echo "     DEPLOY_USER     — nom d'utilisateur SSH"
+          echo "     DEPLOY_SSH_KEY  — clé privée SSH (contenu complet)"
+          echo "     DEPLOY_PATH     — chemin absolu sur le serveur (ex: /var/www/guillaume.robier.org)"

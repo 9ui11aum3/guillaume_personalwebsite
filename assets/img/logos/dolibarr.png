@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>404</title>
+<meta charset="utf-8">
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="robots" content="index, follow" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="keywords" content="" />
+<meta name="title" content="404" />
+<meta name="description" content="Page not found" />
+<meta name="generator" content="Dolibarr 22.0.0-beta (https://www.dolibarr.org)" />
+<meta name="dolibarr:pageid" content="253" />
+<link rel="icon" type="image/png" href="/favicon.png" />
+<link rel="canonical" href="https://www.dolibarr.org/404.php?l=en" />
+<link rel="alternate" hreflang="ar" href="https://www.dolibarr.org/404.php?l=ar" />
+<link rel="alternate" hreflang="ca" href="https://www.dolibarr.org/404.php?l=ca" />
+<link rel="alternate" hreflang="da" href="https://www.dolibarr.org/404.php?l=da" />
+<link rel="alternate" hreflang="de" href="https://www.dolibarr.org/404.php?l=de" />
+<link rel="alternate" hreflang="el" href="https://www.dolibarr.org/404.php?l=el" />
+<link rel="alternate" hreflang="es" href="https://www.dolibarr.org/404.php?l=es" />
+<link rel="alternate" hreflang="fi" href="https://www.dolibarr.org/404.php?l=fi" />
+<link rel="alternate" hreflang="fr" href="https://www.dolibarr.org/404.php?l=fr" />
+<link rel="alternate" hreflang="ja" href="https://www.dolibarr.org/404.php?l=ja" />
+<link rel="alternate" hreflang="it" href="https://www.dolibarr.org/404.php?l=it" />
+<link rel="alternate" hreflang="nl" href="https://www.dolibarr.org/404.php?l=nl" />
+<link rel="alternate" hreflang="pl" href="https://www.dolibarr.org/404.php?l=pl" />
+<link rel="alternate" hreflang="pt" href="https://www.dolibarr.org/404.php?l=pt" />
+<link rel="alternate" hreflang="ro" href="https://www.dolibarr.org/404.php?l=ro" />
+<link rel="alternate" hreflang="ru" href="https://www.dolibarr.org/404.php?l=ru" />
+<link rel="alternate" hreflang="sv" href="https://www.dolibarr.org/404.php?l=sv" />
+<link rel="alternate" hreflang="tr" href="https://www.dolibarr.org/404.php?l=tr" />
+<link rel="alternate" hreflang="uk" href="https://www.dolibarr.org/404.php?l=uk" />
+<link rel="alternate" hreflang="en" href="https://www.dolibarr.org/404.php?l=en" />
+<link rel="manifest" href="/manifest.json.php" />
+<!-- Include HTML header from common file -->
+<link rel="preconnect" href="//cdnjs.cloudflare.com">
+<link rel="preconnect" href="//fonts.googleapis.com">
+<link rel="preconnect" href="//cdn.transifex.com">
+
+<link rel="stylesheet" id="font-wasesome-css" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+<link rel="stylesheet" id="font-google-css" href="//fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&amp;display=swap">
+<link rel="alternate" type="application/rss+xml" title="Last news of Dolibarr ERP and CRM" href="https://www.dolibarr.org/rss/">
+<link rel="apple-touch-icon" href="https://www.dolibarr.org/medias/image/www.dolibarr.org/images/dolibarr_256x256_color.png">
+<!-- Mastodon tag -->
+<link rel="me" href="https://pouet.chapril.org/@dolibarr">
+<!-- Other -->
+<meta name="author" content="Dolibarr team">
+<meta name="theme-color" content="#048">
+<!-- Transifex -->
+<script type="text/javascript">window.liveSettings={api_key:"354a19c7081e448a974c7e41db64bc57"}</script>
+<script type="text/javascript" src="//cdn.transifex.com/live.js"></script>
+<!-- Scripts -->
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KYYDR4YR7J"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-KYYDR4YR7J');
+</script>
+<!-- Matomo tag -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//matomo.dolibarr.org/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+<!-- Include HTML header from page header block -->
+
+<!-- Include link to common CSS file -->
+<link rel="stylesheet" href="/styles.css.php?website=www.dolibarr.org" type="text/css" />
+<!-- Include link to common JS file -->
+<script nonce="0a4a368a" async src="/javascript.js.php?website=www.dolibarr.org"></script>
+</head>
+<!-- File content defined in Dolibarr website module editor -->
+<body id="bodywebsite" class="bodywebsite txlive bodywebpage-404">
+
+<!-- include www.dolibarr.org/header.php parent id=253 level=1 -->
+
+<header class="dolheader">
+	<div id="header" class="clearfix">
+			<a id="logo" class="left" href="/">
+				<img class="toplogo" width="130" height="36" src="/medias/image/www.dolibarr.org/images/dolibarr_logo_white.svg" alt="Open Source ERP and CRM | Web business suite Dolibarr" /> 			</a>
+			<div id="headermodule">
+				
+			</div>
+	</div>
+		
+	<div id="nav" class="">
+	<div id="decalmenu" class="backshadow">
+	    
+	    
+<!-- include www.dolibarr.org/menu.php parent id=253 level=2 -->
+
+	    <ul class="nav menu" id="mainmenu">
+            <li class="item-82 current active"><a href="/" aria-label="Home" title="Home"><span class="fa fa-home"></span></a></li>
+            <li class="item-161"><a href="/#features" aria-label="Features">Features</a></li>
+            <li class="item-162"><a href="/#lastnews" aria-label="Blog">Blog</a></li>
+            <li class="item-163"><a href="/#community" aria-label="Community">Community</a></li>
+            <li class="item-67"><a href="/documentation-home.php" aria-label="Documentation">Documentation</a></li>
+            <li class="item-49"><a href="/onlinedemo.php" aria-label="Online demo">Online demo</a></li>
+            <li class="item-66"><a href="/downloads.php" aria-label="Downloads">Downloads</a></li>
+            <li class="item-68"><a href="/addon-market-place.php" aria-label="Marketplace DoliStore">Addons</a></li>
+            <li class="item-32"><a href="/forum.php" aria-label="Forum">Forum</a></li>
+        </ul>
+
+
+        <div class="customlargebutton downloadbutton"  >
+            <table class="buttonlarge">
+            <tbody>
+            <tr>
+            <td>
+                <a href="https://sourceforge.net/projects/dolibarr/files/" target="_blank"><p class="telecharger_xyzplugin" style="text-align: center;"><span class="fa fa-download notranslate" title="Download"></span><br>
+                <span>Last version</span><span class="notranslate">
+<!-- include www.dolibarr.org/last-stable-version.php parent id=253 level=2 -->
+
+<!-- Enter here your HTML content. Add a section with an id tag and tag contenteditable="false" if you want to use the inline editor for the content  -->
+23.0.2</span></p></a>
+            </td>
+            </tr>
+            </tbody>
+            </table>
+        </div>
+    
+            <form id="mod-finder-searchform" action="search.php" method="POST" class="form-search">
+    		<input type="hidden" name="token" value="" />
+    		<input type="hidden" name="websiteid" value="5" />	
+    		<input type="hidden" name="lang" value="" />	
+    		<input type="hidden" name="l" value="" />	
+        	<div class="finder">
+        		<label><input type="text" name="s" id="mod-finder-searchword" class="search-query input-medium" size="15" autocomplete="off" value="" placeholder="Search..." /></label>
+        	</div>
+        </form>
+        <script>
+        $( document ).ready(function() {
+            $("#mod-finder-searchword").keyup(function() {
+                url = 'search.php?s='+$("#mod-finder-searchword").val();
+                console.log("Replace url with "+url);
+                $('#mod-finder-searchform').attr('action', url);
+            });
+            $("#rd-search-form-input").keyup(function() {
+                url = 'search.php?s='+$("#rd-search-form-input").val();
+                console.log("Replace url with "+url);
+                $('#rd-search-form').attr('action', url);
+            });
+        });
+        </script>
+        
+	</div>
+	
+	<div class="backshadow arrowafterul"></div>
+	<div class="backshadow"></div>
+
+	</div>
+</header>
+
+<br><br><br><br><br>
+<center style="font-size: 2em">
+<div>Page Not Found<br>
+<span class="opacitymedium" style="font-size: 0.5em">/medias/image/www.dolibarr.org/Logos/Logo%20Dolibarr%20mono.png</span>
+</div>
+<br><br>
+<div>Go to <a href="/">Home page</a></div>
+</center>
+<br><br><br><br><br>
+
+
+<!-- include www.dolibarr.org/footer.php parent id=253 level=1 -->
+
+<div id="body2" class="clearboth">
+		<div class="wrapper2">
+			<div id="footer">
+
+				<div class="smallonsmartphone" itemscope itemtype="http://schema.org/SoftwareApplication">
+				<span itemprop="name">Dolibarr ERP CRM</span> &copy; <span class="notranslate">2003-2026</span> - Open Source Software 
+				for business (<span itemprop="operatingSystem">Windows - MAC - Linux - Docker - Cloud</span>)<br>
+				<br>
+				<link itemprop="applicationCategory" href="https://schema.org/BusinessApplication" />
+				</div>
+				
+	            <div class="inline-block marginrightonly marginleftonly" id="languagesselctor">
+                    <select id="language-select" label="Set language">
+                        <option value="en_US">English</option>
+                        <!--<option value="en">English</option>-->
+                        <option value="ar">Arab</option>
+                        <option value="bg">Bulgarian</option>
+                        <option value="ca">Catalan</option>
+                        <option value="da">Danish</option>
+                        <option value="nl">Dutch</option>
+                        <option value="fi">Finish</option>
+                        <option value="fr">French</option>
+                        <option value="ka">Georgian</option>
+                        <option value="de">German</option>
+                        <option value="el">Greek</option>
+                        <option value="it">Italian</option>
+                        <option value="ja">Japanese</option>
+                        <option value="lt">Lithuanian</option>
+                        <option value="mk">Macedonian</option>
+                        <option value="pt">Portuguese</option>
+                        <option value="pl">Polish</option>
+                        <option value="ro">Romanian</option>
+                        <option value="ru">Russian</option>
+                        <option value="sv">Swedish</option>
+                        <option value="sw">Swahili</option>
+                        <option value="tr">Turkish</option>
+                        <option value="uk">Ukrainian</option>
+                        <option value="zh-Hans">Chinese (simplified)</option>
+                        <option value="zh-Hant">Chinese (traditional)</option>
+                    </select>
+                    <script type="text/javascript">
+                    
+                    $('.showforde, .showforel, .showfores, .showforfr, .showforit').hide();
+                    
+                    //This is called each time the languages list is retrieved
+                    //from Transifex Live. This may happen more than once so we should
+                    //be able to handle this case.
+                    Transifex.live.onFetchLanguages(function(languages) {
+                    
+                        //empty our language <select> list 
+                        $('#language-select').empty();
+                    
+                        //add translation languages to the list
+                        for (var i = 0; i < languages.length; ++i) {
+                            $('#language-select').append(
+                                '<option value="' + languages[i].code +
+                                '">' + languages[i].name + '</option>'
+                            );
+                        }
+                    
+                        //set the language selector to the source language (default)
+                        $('#language-select').val(
+                          Transifex.live.getSourceLanguage().code
+                        );
+
+                        // If we set english, add alternates for each language                    
+                        if ($('#language-select').val() == 'en' || $('#language-select').val() == 'en_US') {
+                            $('.finder').show();
+                            $('.form-search').show();
+                            $('#logo').addClass('left');
+
+                            var x = window.location.href;
+                            x = x.split('#');
+                            x = x[0].split('?');
+                            console.log('url in onFetchLanguages = ' + x);
+
+                            console.log("Show en class");
+                            $('.showforen').show();
+                                
+                            // Add all links rel="alternate" (all language codes except en...)
+                            var langtoadd = ['ar', 'bn', 'ca', 'da', 'de', 'el', 'fa', 'fi', 'fr', 'hi', 'id', 'it', 'ja', 'ka', 'mk', 'nl', 'pt', 'pl', 'ro', 'ru', 'sk', 'sv', 'sw', 'tr', 'uk', 'zh-Hans', 'zh-Hant'];
+                            langtoadd.forEach(myFunction)
+                            
+                            function myFunction(item, index, arr) {
+                                console.log("Add link for "+item);
+                                var link = document.createElement('link');
+                                link.rel = 'alternate'; link.hreflang=item; link.href = x[0]+'?lang='+item+'&l='+item;
+                                document.head.appendChild(link);
+                            }
+                        }
+                            
+                        //handle switching to another language than en
+                        $('#language-select').change(function() {
+                            Transifex.live.translateTo($(this).val());
+
+                            console.log("Change language using transifex for "+$('#language-select').val());
+                            //tell transifex live to translate the page
+                            //based on user selection
+                            //if ($('#language-select').val() == 'da' || $('#language-select').val() == 'nl' || $('#language-select').val() == 'da'  ) {
+                            var x = window.location.href;
+                            x = x.split('#');
+                            x = x[0].split('?');
+                            console.log('url in change = ' + x);
+                            
+                            const urlParams = new URLSearchParams(window.location.search);
+                                
+                            var websiteparam = urlParams.get('website');
+                            var pagerefparam = urlParams.get('pageref');
+                            var pid = urlParams.get('pid');
+                            var partnerid = urlParams.get('partnerid');
+                            var partnerref = urlParams.get('partnerref');
+                            
+                            var params = '?lang='+$('#language-select').val()+'&l='+$('#language-select').val();
+                            params += (websiteparam ? '&website='+websiteparam : '');
+                            params += (pagerefparam ? '&pageref='+pagerefparam : '');
+                            params += (pid ? '&pid='+pid : '');
+                            params += (partnerid ? '&partnerid='+partnerid : '');
+                            params += (partnerref ? '&partnerref='+partnerref : '');
+                            
+                            window.location.href = x[0]+params;
+                        });
+                    
+                        //called when Transifex Live successfully translates the
+                        //page to a language. In that case lets update the
+                        //selected language of the widget
+                        Transifex.live.onTranslatePage(function(language_code) {
+                            $('#language-select').val(language_code);
+                            
+                            document.cookie = "weblangs-shortcode="+language_code;
+                            
+                            console.log("Hide or show search zone and some sections for "+$('#language-select').val());
+                            var x = window.location.href;
+                            x = x.split('#');
+                            x = x[0].split('?');
+                            console.log('url in onTranslatePage = ' + x);
+
+                            if ($('#language-select').val() != 'en' && $('#language-select').val() != 'en_US') {
+                                $('.finder').hide();
+                                $('.form-search').hide();
+                                $('#logo').removeClass('left');
+                                if (window.location.href.toLowerCase().indexOf("lang=") > -1 || window.location.href.toLowerCase().indexOf("l=") > -1) {
+                                    console.log("url read in non en language has lang parameter so we edit canonical");
+                                    var newcanonicalurl = $('link[rel="canonical"]').attr('href').split('?')[0];
+                                    //var queryParams = new URLSearchParams(newcanonicalurl);
+                                    //queryParams.delete('lang');
+                                    //queryParams.delete('l');
+                                    //queryParams.set('lang', $('#language-select').val());
+                                    //queryParams.set('l', $('#language-select').val());
+                                    //console.log("queryurl = "+decodeURIComponent(queryParams.toString()));
+                                    newcanonicalurl = newcanonicalurl +'?lang='+$('#language-select').val()+'&l='+$('#language-select').val();
+                                    $('link[rel="canonical"]').attr('href', newcanonicalurl);
+                                } else {
+                                    console.log("url read in non en language has no lang parameter so we remove canonical");
+                                    // Remove links rel="canonical"
+                                    $('link[rel="canonical"]').remove();
+                                }
+                                
+                                $('.showforen').hide();
+                            }
+                            
+                            if ($('#language-select').val() == 'ar') {
+                                $('html').attr('dir', 'rtl');
+                            } else {
+                                $('html').attr('dir', 'ltr');
+                            }
+
+                            if ($('#language-select').val() == 'en' || $('#language-select').val() == 'en_US') {
+                                console.log("Show en class");
+                                $('.showforen').show();
+                            }
+                            if ($('#language-select').val() == 'de') {
+                                console.log("Show de class");
+                                $('.showforde').show();
+                            }
+                            if ($('#language-select').val() == 'el') {
+                                console.log("Show el class");
+                                $('.showforel').show();
+                            }
+                            if ($('#language-select').val() == 'es') {
+                                console.log("Show es class");
+                                $('.showfores').show();
+                            }
+                            if ($('#language-select').val() == 'fr') {
+                                console.log("Show fr class");
+                                $('.showforfr').show();
+                            }
+                            if ($('#language-select').val() == 'it') {
+                                console.log("Show it class");
+                                $('.showforit').show();
+                            }
+                            
+                        });
+                    });
+                    </script>
+	            </div>
+	    
+	            <div class="socialnetworks inline-block marginrightonly marginleftonly valignmiddle">
+			    <a id="l1" class="icons" target="_blank" rel="noopener" width="20" height="20" title="LinkedIn social network" href="https://www.linkedin.com/company/association-dolibarr">
+			        <span class="fab fa-linkedin"></span>
+			        </a>
+			    <a id="l2" class="icons" target="_blank" rel="noopener" width="20" height="20" title="Mastodon" href="https://pouet.chapril.org/@Dolibarr/">
+			        <span class="fab fa-mastodon"></span>
+			        </a>
+			    <a id="l3" class="icons" target="_blank" rel="noopener" width="20" height="20" title="Blue Sky" href="https://bsky.app/profile/dolibarr.org">
+			        <span class="fab fa-bluesky"></span>
+			        </a>
+			    <a id="l4" class="icons" target="_blank" rel="noopener" width="20" height="20" title="Threads" href="https://www.threads.net/@dolibarr">
+			        <span class="fab fa-threads"></span>
+			        </a>
+				<a id="l5" class="icons" target="_blank" rel="noopener" width="20" height="20" title="Reddit social network" href="https://reddit.com/r/Dolibarr_ERP_CRM">
+				    <span class="fab fa-reddit"></span>
+				    </a>
+				<a id="l6" class="icons" target="_blank" rel="noopener" width="20" height="20" title="X social network" href="https://x.com/dolibarr">
+				    <span class="fab fa-x"></span>
+				    </a>
+				<a id="l7" class="icons" target="_blank" rel="noopener" width="20" height="20" title="Facebook social network" href="https://www.facebook.com/dolibarr">
+				    <span class="fab fa-facebook"></span>
+				    </a>
+				<a id="l8" class="icons" target="_blank" rel="noopener" width="20" height="20" title="GitHub" href="https://www.github.com/dolibarr">
+				    <span class="fab fa-github"></span>
+				    </a>
+			    <a id="l9" class="icons" target="_blank" rel="noopener" width="20" height="20" title="RSS stream" href="https://www.dolibarr.org/rss">
+			        <span class="fa fa-rss"></span>
+			    </a>
+			    <a id="l10" class="icons" target="_blank" rel="noopener" width="20" height="20" title="Youtube Dolibarr channel" href="https://www.youtube.com/user/DolibarrERPCRM">
+			        <span class="fab fa-youtube"></span>
+			        </a>
+                </div>
+
+                <div>
+                    <br>    
+                    <a href="/legal-privacy-gdpr.php" alt="Legal and Privacy">Legal and Privacy</a>
+                    
+                </div>
+                
+			</div>
+		</div>
+</div>
+
+</body>
+</html>

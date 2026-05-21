@@ -39,8 +39,11 @@ if (!isset($page_og_image)) $page_og_image = OG_IMAGE_DEFAULT;
   <link rel="icon" type="image/svg+xml" href="/assets/img/logos/favicon.svg">
 
   <!-- Fonts (self-hosted) -->
+  <?php if (file_exists(__DIR__ . '/../assets/fonts/inter-var.woff2')): ?>
   <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/inter-var.woff2" crossorigin>
   <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/jetbrains-mono-var.woff2" crossorigin>
+  <link rel="stylesheet" href="/assets/fonts/fonts.css">
+  <?php endif; ?>
 
   <!-- CSS -->
   <link rel="stylesheet" href="/assets/css/reset.css">

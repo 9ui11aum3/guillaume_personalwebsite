@@ -1,0 +1,1257 @@
+
+<!DOCTYPE html>
+<!--[if lte IE 8]>
+<html lang="fr" class="no-js lt-ie10 lt-ie9"> <![endif]-->
+<!--[if IE 9]>
+<html lang="fr" class="no-js lt-ie10"> <![endif]-->
+<!--[if gt IE 9]><!-->
+<html lang="fr" class="no-js" xmlns="http://www.w3.org/1999/html"> <!--<![endif]-->
+<head>
+
+    
+    <meta charset="UTF-8">
+
+    <!-- debut meta-data social -->
+
+    <!-- Twitter Card data -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Page not found - cpe">
+    <meta name="twitter:url" content="https://www.cpe.fr/wp-content/themes/cpe/img/logo-cpe.svg">
+    <meta name="twitter:description" content="">
+    <meta name="twitter:image" content="">
+
+    <!-- Open Graph data -->
+    <meta property="og:title" content="Page not found - cpe"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="https://www.cpe.fr/wp-content/themes/cpe/img/logo-cpe.svg"/>
+    <meta property="og:image" content=""/>
+    <meta property="og:description" content=""/>
+    <meta property="og:site_name" content="CPE"/>
+
+    <!-- pour les articles -->
+    <meta property="article:published_time" content=""/>
+    <meta property="article:modified_time" content=""/>
+
+
+    <!-- fin meta-data social -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- empeche detection numeros de telephones sur safari iOS -->
+    <meta name="format-detection" content="telephone=no"/>
+
+    <script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<meta name='robots' content='noindex, follow' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO plugin v25.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Page not found - cpe</title>
+	<meta property="og:locale" content="fr_FR" />
+	<meta property="og:title" content="Page not found - cpe" />
+	<meta property="og:site_name" content="cpe" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.cpe.fr/#website","url":"https://www.cpe.fr/","name":"cpe","description":"Ecole d&#039;Ingénieurs en Chjmie et Sciences du Numérique","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.cpe.fr/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"fr-FR"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="cpe &raquo; Flux" href="https://www.cpe.fr/feed/" />
+<link rel="alternate" type="application/rss+xml" title="cpe &raquo; Flux des commentaires" href="https://www.cpe.fr/comments/feed/" />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.cpe.fr/wp-includes/css/dist/block-library/style.min.css?ver=6.8.1' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='cookie-law-info-css' href='https://www.cpe.fr/wp-content/plugins/webtoffee-gdpr-cookie-consent/public/css/cookie-law-info-public.css?ver=2.5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-law-info-gdpr-css' href='https://www.cpe.fr/wp-content/plugins/webtoffee-gdpr-cookie-consent/public/css/cookie-law-info-gdpr.css?ver=2.5.7' type='text/css' media='all' />
+<style id='cookie-law-info-gdpr-inline-css' type='text/css'>
+.cli-modal-content, .cli-tab-content { background-color: #ffffff; }.cli-privacy-content-text, .cli-modal .cli-modal-dialog, .cli-tab-container p, a.cli-privacy-readmore { color: #000000; }.cli-tab-header { background-color: #f2f2f2; }.cli-tab-header, .cli-tab-header a.cli-nav-link,span.cli-necessary-caption,.cli-switch .cli-slider:after { color: #000000; }.cli-switch .cli-slider:before { background-color: #ffffff; }.cli-switch input:checked + .cli-slider:before { background-color: #ffffff; }.cli-switch .cli-slider { background-color: #e3e1e8; }.cli-switch input:checked + .cli-slider { background-color: #28a745; }.cli-modal-close svg { fill: #000000; }.cli-tab-footer .wt-cli-privacy-accept-all-btn { background-color: #00acad; color: #ffffff}.cli-tab-footer .wt-cli-privacy-accept-btn { background-color: #00acad; color: #ffffff}.cli-tab-header a:before{ border-right: 1px solid #000000; border-bottom: 1px solid #000000; }
+</style>
+<link rel='stylesheet' id='wpml-legacy-horizontal-list-0-css' href='https://www.cpe.fr/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-list-horizontal/style.min.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='twentysixteen-fonts-css' href='https://fonts.googleapis.com/css?family=Merriweather%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic%7CMontserrat%3A400%2C700%7CInconsolata%3A400&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css' href='https://www.cpe.fr/wp-content/themes/acti-main/genericons/genericons.css?ver=3.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='twentysixteen-style-css' href='https://www.cpe.fr/wp-content/themes/acti-main/style.css?ver=6.8.1' type='text/css' media='all' />
+<!--[if lt IE 10]>
+<link rel='stylesheet' id='twentysixteen-ie-css' href='https://www.cpe.fr/wp-content/themes/acti-main/css/ie.css?ver=20160816' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentysixteen-ie8-css' href='https://www.cpe.fr/wp-content/themes/acti-main/css/ie8.css?ver=20160816' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='twentysixteen-ie7-css' href='https://www.cpe.fr/wp-content/themes/acti-main/css/ie7.css?ver=20160816' type='text/css' media='all' />
+<![endif]-->
+<style id='akismet-widget-style-inline-css' type='text/css'>
+
+			.a-stats {
+				--akismet-color-mid-green: #357b49;
+				--akismet-color-white: #fff;
+				--akismet-color-light-grey: #f6f7f7;
+
+				max-width: 350px;
+				width: auto;
+			}
+
+			.a-stats * {
+				all: unset;
+				box-sizing: border-box;
+			}
+
+			.a-stats strong {
+				font-weight: 600;
+			}
+
+			.a-stats a.a-stats__link,
+			.a-stats a.a-stats__link:visited,
+			.a-stats a.a-stats__link:active {
+				background: var(--akismet-color-mid-green);
+				border: none;
+				box-shadow: none;
+				border-radius: 8px;
+				color: var(--akismet-color-white);
+				cursor: pointer;
+				display: block;
+				font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen-Sans', 'Ubuntu', 'Cantarell', 'Helvetica Neue', sans-serif;
+				font-weight: 500;
+				padding: 12px;
+				text-align: center;
+				text-decoration: none;
+				transition: all 0.2s ease;
+			}
+
+			/* Extra specificity to deal with TwentyTwentyOne focus style */
+			.widget .a-stats a.a-stats__link:focus {
+				background: var(--akismet-color-mid-green);
+				color: var(--akismet-color-white);
+				text-decoration: none;
+			}
+
+			.a-stats a.a-stats__link:hover {
+				filter: brightness(110%);
+				box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06), 0 0 2px rgba(0, 0, 0, 0.16);
+			}
+
+			.a-stats .count {
+				color: var(--akismet-color-white);
+				display: block;
+				font-size: 1.5em;
+				line-height: 1.4;
+				padding: 0 13px;
+				white-space: nowrap;
+			}
+		
+</style>
+<link rel='stylesheet' id='wp-pagenavi-css' href='https://www.cpe.fr/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<script type="text/javascript" src="https://www.cpe.fr/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.cpe.fr/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="cookie-law-info-js-extra">
+/* <![CDATA[ */
+var Cli_Data = {"nn_cookie_ids":["_ga_V8D1GRPLX1","_ga_C7W8D6DG2Q","_ga_D2VKV0P6GW","__cf_bm","_GRECAPTCHA","_tt_enable_cookie","_ttp","yt.innertube::nextId","yt.innertube::requests","DEVICE_INFO","_gat_UA-6187496-1","hubspotutk","__hssc","test_cookie","IDE","_gcl_au","_ga","_gid","__hstc","JSESSIONID","AWSELB","_fbp","fr","id","YSC","VISITOR_INFO1_LIVE","yt-remote-device-id","yt-remote-connected-devices","_OG_GDPR_COOKIE_","PHPSESSID","__hssrc","WEBSRVID","stdvid","aff","site","CONSENT"],"non_necessary_cookies":{"necessary":["_GRECAPTCHA","_GRECAPTCHA","AWSELB","AWSELB","PHPSESSID","cookielawinfo-checkbox-advertisement","cookielawinfo-checkbox-advertisement","PHPSESSID"],"functional":["__cf_bm","__cf_bm","__hssc","__hssc","JSESSIONID","JSESSIONID","__hssrc","__hssrc","WEBSRVID","WEBSRVID"],"analytics":["_ga_C7W8D6DG2Q","_ga_D2VKV0P6GW","_ga_V8D1GRPLX1","_ga_V8D1GRPLX1","_ga_D2VKV0P6GW","_ga_C7W8D6DG2Q","_gat_UA-6187496-1","_gat_UA-6187496-1","_ga","hubspotutk","hubspotutk","_gcl_au","_ga","_gid","__hstc","_gcl_au","__hstc","_gid"],"advertisement":["_ttp","_tt_enable_cookie","yt.innertube::requests","yt.innertube::nextId","_tt_enable_cookie","_ttp","yt.innertube::nextId","yt.innertube::requests","test_cookie","IDE","IDE","test_cookie","_fbp","fr","id","YSC","VISITOR_INFO1_LIVE","VISITOR_INFO1_LIVE","YSC","id","fr","_fbp"],"others":["DEVICE_INFO","DEVICE_INFO","yt-remote-device-id","yt-remote-connected-devices","_OG_GDPR_COOKIE_","_OG_GDPR_COOKIE_","yt-remote-connected-devices","yt-remote-device-id","stdvid","aff","site","CONSENT","site","stdvid","aff","CONSENT"]},"cookielist":{"necessary":{"id":7,"status":true,"priority":0,"title":"Necessary","strict":true,"default_state":false,"ccpa_optout":false,"loadonstart":false},"functional":{"id":8,"status":true,"priority":5,"title":"Functional","strict":false,"default_state":false,"ccpa_optout":false,"loadonstart":false},"performance":{"id":9,"status":true,"priority":4,"title":"Performance","strict":false,"default_state":false,"ccpa_optout":false,"loadonstart":false},"analytics":{"id":10,"status":true,"priority":3,"title":"Analytics","strict":false,"default_state":false,"ccpa_optout":false,"loadonstart":false},"advertisement":{"id":11,"status":true,"priority":2,"title":"Advertisement","strict":false,"default_state":false,"ccpa_optout":false,"loadonstart":false},"others":{"id":12,"status":true,"priority":1,"title":"Others","strict":false,"default_state":false,"ccpa_optout":false,"loadonstart":false}},"ajax_url":"https:\/\/www.cpe.fr\/wp-admin\/admin-ajax.php","current_lang":"fr","security":"3c271ab74d","eu_countries":["GB"],"geoIP":"disabled","use_custom_geolocation_api":"","custom_geolocation_api":"https:\/\/geoip.cookieyes.com\/geoip\/checker\/result.php","consentVersion":"1","strictlyEnabled":["necessary","obligatoire"],"cookieDomain":"","privacy_length":"250","ccpaEnabled":"","ccpaRegionBased":"","ccpaBarEnabled":"","ccpaType":"gdpr","triggerDomRefresh":"","secure_cookies":""};
+var log_object = {"ajax_url":"https:\/\/www.cpe.fr\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.cpe.fr/wp-content/plugins/webtoffee-gdpr-cookie-consent/public/js/cookie-law-info-public.js?ver=2.5.7" id="cookie-law-info-js"></script>
+<!--[if lt IE 9]>
+<script type="text/javascript" src="https://www.cpe.fr/wp-content/themes/acti-main/js/html5.js?ver=3.7.3" id="twentysixteen-html5-js"></script>
+<![endif]-->
+<link rel="https://api.w.org/" href="https://www.cpe.fr/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.cpe.fr/xmlrpc.php?rsd" />
+<meta name="generator" content="WPML ver:4.7.4 stt:1,4;" />
+<!-- Google Tag Manager -->
+<script type="text/plain" data-cli-class="cli-blocker-script"  data-cli-category="analytics" data-cli-script-type="analytics" data-cli-block="true" data-cli-block-if-ccpa-optout="false" data-cli-element-position="head">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NNMDKPV');</script>
+<!-- End Google Tag Manager --><!-- Google Tag Manager -->
+<script type="text/plain" data-cli-class="cli-blocker-script"  data-cli-category="analytics" data-cli-script-type="analytics" data-cli-block="true" data-cli-block-if-ccpa-optout="false" data-cli-element-position="head">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NNMDKPV');</script>
+<!-- End Google Tag Manager --><link rel="icon" href="https://www.cpe.fr/wp-content/uploads/2019/05/cropped-logo_Bleu_RVB-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://www.cpe.fr/wp-content/uploads/2019/05/cropped-logo_Bleu_RVB-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.cpe.fr/wp-content/uploads/2019/05/cropped-logo_Bleu_RVB-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://www.cpe.fr/wp-content/uploads/2019/05/cropped-logo_Bleu_RVB-270x270.jpg" />
+		<style type="text/css" id="wp-custom-css">
+			li.type-twitter {
+	display:none!important;
+}		</style>
+		<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript>
+    <!-- debut icones -->
+<!--    <link rel="apple-touch-icon" sizes="180x180"-->
+<!--          href="--><!--/dist/img/icons/apple-touch-icon.png">-->
+<!--    <link rel="icon" type="image/png" href="--><!--/dist/img/icons/favicon-32x32.png"-->
+<!--          sizes="32x32">-->
+<!--    <link rel="icon" type="image/png" href="--><!--/dist/img/icons/favicon-16x16.png"-->
+<!--          sizes="16x16">-->
+    <link rel="apple-touch-icon" sizes="180x180" href="https://www.cpe.fr/wp-content/themes/acti-main/dist/img/icons/apple-touch-icon.png">
+    <link rel="icon" href="https://www.cpe.fr/wp-content/themes/acti-main/dist/img/icons/favicon.ico" type="image/x-icon">
+    <link rel="icon" type="image/png" href="https://www.cpe.fr/wp-content/themes/acti-main/dist/img/icons/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="https://www.cpe.fr/wp-content/themes/acti-main/dist/img/icons/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="https://www.cpe.fr/wp-content/themes/acti-main/dist/img/icons/site.webmanifest">
+    <meta name="msapplication-TileColor" content="#2b5797">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="mask-icon" href="https://www.cpe.fr/wp-content/themes/acti-main/dist/img/icons/safari-pinned-tab.svg"
+          color="#5bbad5">
+    <!-- fin icones -->
+
+    <!-- SEO -->
+    <link rel="alternate" hreflang="en-US" href="https://www.cpe.fr/wp-content/themes/cpe/img/logo-cpe.svg"/>
+    <link rel="alternate" hreflang="fr-FR" href="https://www.cpe.fr/wp-content/themes/cpe/img/logo-cpe.svg"/>
+    <!--<link rel="canonical" href=" //echo get_site_url() . $_SERVER['REQUEST_URI']; " />-->
+    <!-- end SEO -->
+
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,800,800i|Montserrat:600" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://www.cpe.fr/wp-content/themes/acti-main/dist/css/styles.css">
+
+
+    <!-- Recaptcha v3 -->
+    <script src="https://www.google.com/recaptcha/api.js"></script>
+    <script>
+        function onSubmitCpeForm(token) {
+            var forms = document.getElementsByClassName("cpe-form");
+            var form = forms[0];
+            form.submit();
+        }
+    </script>
+    <!-- End Recaptcha -->
+
+    <script src="https://www.cpe.fr/wp-content/themes/acti-main/dist/js/libs/modernizr.min.js"></script>
+</head>
+<body >
+<div id="body">
+    <a id="anchor-body" tabindex="-1"></a>
+
+    <header role="banner" id="header" class="header">
+        <div class="wrap-header">
+            <div class="top-header">
+                <div class="skip">
+                    <ul class="list-skip">
+                        <li class="item-skip">
+                            <a class="cta-skip" href="#anchor-resp">Aller au menu</a>
+                        </li>
+                        <li class="item-skip">
+                            <a class="cta-skip" href="#anchor-content">Aller au contenu</a>
+                        </li>
+                        <li class="item-skip">
+                            <a class="cta-skip" href="#anchor-search-header">Aller à la recherche</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="main-header">
+                <div class="logo">
+                                            <a class="block-logo" href="https://www.cpe.fr/">
+                            <div class="media-block-logo">
+                                <img src="https://www.cpe.fr/wp-content/themes/acti-main/img/logo-cpe-bleu.svg" alt="CPE Lyon">
+                            </div>
+                            <p class="text-block-logo">Ecole d'Ingénieurs en Chimie et Sciences du Numérique</p>
+                            <div class="info-block-logo">
+                                <p class="text-info-block-logo">Retour à l'accueil</p>
+                            </div>
+                        </a>
+                                    </div>
+                <div class="resp">
+                    <a id="anchor-resp" tabindex="-1"></a>
+                    <button type="button" class="title-resp" aria-controls="content-resp" aria-expanded="false">Menu                    </button>
+                    <div class="content-resp" id="content-resp">
+                        <div class="wrap-content-resp">
+                            <div class="nav-principal">
+                                <nav role="navigation">
+
+                                <div class="nav-principal-level-1"><ul class="list-nav-principal-level-1"><li class="item-nav-principal-level-1"><button type="button" class="cta-nav-principal-level-1" aria-controls="nav-principal-level-2-0" aria-expanded="false">Ecole</button>
+		<div class="nav-principal-level-2 " id='nav-principal-level-2-0'><div class="close-nav-principal-level-2"><button type="button" class="cta-close-nav-principal-level-2">Retour</button></div><ul class="list-nav-principal-level-2">
+	<li class="item-nav-principal-level-2"><p class="title-nav-principal-level-3">Présentation</p>
+			<div class="nav-principal-level-3 "><ul class="list-nav-principal-level-3">
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/ecole-cpe-lyon/notre-adn/ ">Notre ADN</a></li>
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/ecole-cpe-lyon/nos-valeurs/ ">Nos valeurs</a></li>
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/ecole-cpe-lyon/cpe-en-synthese-chiffre-cles/ ">CPE en synthèse : Chiffres clés</a></li>
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/ecole-cpe-lyon/gouvernance-et-equipes/ ">Gouvernance et équipes</a></li>
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/recherche/prix-nobel-cpe-lyon/ ">3 Prix Nobel dans l&rsquo;histoire de CPE Lyon</a></li>
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/cpe-lyon-recrute/ ">CPE Lyon recrute</a></li>
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/article/ecole-cpe-lyon-dans-les-classements/ ">CPE Lyon dans les classements</a></li>
+	</ul></div>
+</li>
+	<li class="item-nav-principal-level-2"><p class="title-nav-principal-level-3">Réseaux, labels et partenaires</p>
+			<div class="nav-principal-level-3 "><ul class="list-nav-principal-level-3">
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/ecole-cpe-lyon/reseaux-enseignement-superieur/ ">Réseaux enseignement supérieur</a></li>
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/ecole-cpe-lyon/les-partenaires-formation/ ">Les partenaires formation</a></li>
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/ecole-cpe-lyon/les-partenaires-institutionnels/ ">Les partenaires institutionnels</a></li>
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/ecole-cpe-lyon/labels-certifications/ ">Labels, certifications</a></li>
+	</ul></div>
+</li>
+	<li class="item-nav-principal-level-2"><p class="title-nav-principal-level-3">Lyon, le campus et les locaux</p>
+			<div class="nav-principal-level-3 "><ul class="list-nav-principal-level-3">
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/ecole-cpe-lyon/lyon-vallee-de-la-chimie-et-capitale-du-numerique/ ">Lyon : ville de la chimie et capitale du numérique</a></li>
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/ecole-cpe-lyon/le-campus-lyontech-la-doua/ ">Le campus LyonTech – La Doua</a></li>
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/article/ecole-locaux-et-equipements/ ">CPE Lyon : Locaux et équipements</a></li>
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/ecole-cpe-lyon/cpe-lyon-en-images/ ">L&rsquo;école en images : visite virtuelle interactive</a></li>
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/article/ecole-lyon-le-campus-et-les-locaux-lecole-en-video/ ">L&rsquo;école en vidéo</a></li>
+	</ul></div>
+</li>
+</ul></div>
+</li>
+<li class="item-nav-principal-level-1"><a href=https://www.cpe.fr/formations/ class="cta-nav-principal-level-1">Formations</a></li>
+<li class="item-nav-principal-level-1"><button type="button" class="cta-nav-principal-level-1" aria-controls="nav-principal-level-2-1" aria-expanded="false">International</button>
+		<div class="nav-principal-level-2 " id='nav-principal-level-2-1'><div class="close-nav-principal-level-2"><button type="button" class="cta-close-nav-principal-level-2">Retour</button></div><ul class="list-nav-principal-level-2">
+	<li class="item-nav-principal-level-2"><p class="title-nav-principal-level-3">Partir à l&rsquo;international</p>
+			<div class="nav-principal-level-3 "><ul class="list-nav-principal-level-3">
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/etudes-internationales/formations-chimie-ou-sciences-du-numerique/ ">Formations initiales</a></li>
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/etudes-internationales/formation-informatique-reseaux-en-apprentissage/ ">Formations par apprentissage</a></li>
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/etudes-internationales/bourses/ ">Bourses pour partir à l&rsquo;international</a></li>
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/article/international-partir-a-linternational-erasmus-cpe-lyon-sengage/ ">Erasmus+ : CPE Lyon engagée depuis 30 ans</a></li>
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/etudes-internationales/contact/ ">Contact pour des informations personnalisées</a></li>
+	</ul></div>
+</li>
+	<li class="item-nav-principal-level-2"><p class="title-nav-principal-level-3">Accueil des étudiants internationaux</p>
+			<div class="nav-principal-level-3 "><ul class="list-nav-principal-level-3">
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/article/international-venir-etudier-a-cpe-lyon-bienvenue-en-france/ ">Bienvenue en France !</a></li>
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/etudiants-etrangers/diplome-ingenieur/ ">Admission individuelle</a></li>
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/etuditans-etrangers/erasmus/ ">Echanges : Erasmus+, bilatéraux</a></li>
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/etudiants-etrangers/programmes-diplomants/ ">Doubles diplômes</a></li>
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/etudiants-etrangers/programmes-d-echange/ ">Via les réseaux</a></li>
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/etuditans-etrangers/summer-schools/ ">Summer schools</a></li>
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/etudiants-etrangers/informations-pratiques/ ">Informations pratiques</a></li>
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/etudiants-etrangers/contact/ ">Contact pour des informations personnalisées</a></li>
+	</ul></div>
+</li>
+	<li class="item-nav-principal-level-2"><p class="title-nav-principal-level-3">L&rsquo;enseignement des langues</p>
+			<div class="nav-principal-level-3 "><ul class="list-nav-principal-level-3">
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/enseignement-des-langues/ ">L&rsquo;enseignement des langues</a></li>
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/enseignement-des-langues/certification-anglais/ ">La certification en anglais</a></li>
+	</ul></div>
+</li>
+</ul></div>
+</li>
+<li class="item-nav-principal-level-1"><button type="button" class="cta-nav-principal-level-1" aria-controls="nav-principal-level-2-2" aria-expanded="false">CPE Lyon et les entreprises</button>
+		<div class="nav-principal-level-2 " id='nav-principal-level-2-2'><div class="close-nav-principal-level-2"><button type="button" class="cta-close-nav-principal-level-2">Retour</button></div><ul class="list-nav-principal-level-2">
+	<li class="item-nav-principal-level-2"><p class="title-nav-principal-level-3">Recruter à CPE Lyon</p>
+			<div class="nav-principal-level-3 "><ul class="list-nav-principal-level-3">
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/entreprises/recruter-etudiant-stage-ou-cesure/ ">Un étudiant : stage ou césure</a></li>
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/entreprises/recruter-un-apprenti/ ">Un apprenti</a></li>
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/entreprises/recruter-un-diplome/ ">Un diplômé</a></li>
+	</ul></div>
+</li>
+	<li class="item-nav-principal-level-2"><p class="title-nav-principal-level-3">Devenir partenaire</p>
+			<div class="nav-principal-level-3 "><ul class="list-nav-principal-level-3">
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/entreprises/devenir-partenaire/ ">Actions en fonctions de vos objectifs</a></li>
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/entreprises/nos-partenaires/ ">Entreprises partenaires</a></li>
+	</ul></div>
+</li>
+	<li class="item-nav-principal-level-2"><p class="title-nav-principal-level-3">Trouver un expert</p>
+			<div class="nav-principal-level-3 "><ul class="list-nav-principal-level-3">
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/entreprises/trouver-un-expert/ ">Faire réaliser un projet par les étudiants</a></li>
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/entreprises/travailler-avec-un-laboratoire-de-recherche/ ">Travailler avec un labo de recherche</a></li>
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/article/trouver-un-expert-prestation-de-service/ ">Confier vos études en chimie analytique au LICCA</a></li>
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/article/entreprises-trouver-un-expert-confier-un-projet-a-la-junior-entreprise/ ">Confier un projet à Synergie, la Junior-Entreprise de l&rsquo;école</a></li>
+	</ul></div>
+</li>
+	<li class="item-nav-principal-level-2"><p class="title-nav-principal-level-3">Soutenir CPE Lyon</p>
+			<div class="nav-principal-level-3 "><ul class="list-nav-principal-level-3">
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/soutenir-cpe-lyon/mecenat/ ">Mécénat</a></li>
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/soutenir-cpe-lyon/taxe-d-apprentissage/ ">Taxe d&rsquo;apprentissage : mode d&#8217;emploi</a></li>
+	</ul></div>
+</li>
+	<li class="item-nav-principal-level-2"><p class="title-nav-principal-level-3">Formation tout au long de la vie</p>
+			<div class="nav-principal-level-3 "><ul class="list-nav-principal-level-3">
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/formation-professionnelle/stages-de-formation-continue/ ">Stages de formation continue</a></li>
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/formation-professionnelle/formations-diplomantes/ ">Formations diplômantes</a></li>
+	</ul></div>
+</li>
+	<li class="item-nav-principal-level-2"><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/article/entreprises-journee-des-metiers/ ">Journée des Métiers</a></li>
+	<li class="item-nav-principal-level-2"><p class="title-nav-principal-level-3">Contacts</p>
+			<div class="nav-principal-level-3 "><ul class="list-nav-principal-level-3">
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/entreprises/contact/ ">Une équipe dédiée</a></li>
+	</ul></div>
+</li>
+</ul></div>
+</li>
+<li class="item-nav-principal-level-1"><button type="button" class="cta-nav-principal-level-1" aria-controls="nav-principal-level-2-3" aria-expanded="false">Vie étudiante</button>
+		<div class="nav-principal-level-2 " id='nav-principal-level-2-3'><div class="close-nav-principal-level-2"><button type="button" class="cta-close-nav-principal-level-2">Retour</button></div><ul class="list-nav-principal-level-2">
+	<li class="item-nav-principal-level-2"><p class="title-nav-principal-level-3">Vie étudiante</p>
+			<div class="nav-principal-level-3 "><ul class="list-nav-principal-level-3">
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/vie-etudiante/etre-etudiant-cpe-lyon/ ">Etre étudiant à CPE Lyon</a></li>
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/vie-etudiante/clubs-et-associations/ ">Les clubs et associations étudiantes de l&rsquo;école</a></li>
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/vie-etudiante/etudier-a-lyon/ ">Etre étudiant à Lyon</a></li>
+	</ul></div>
+</li>
+	<li class="item-nav-principal-level-2"><p class="title-nav-principal-level-3">Services aux étudiants</p>
+			<div class="nav-principal-level-3 "><ul class="list-nav-principal-level-3">
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/services-etudiants/logement/ ">Le service logement</a></li>
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/services-etudiants/sante-et-securite-sociale/ ">Santé et sécurité sociale</a></li>
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/services-etudiants/etudiants-en-situation-de-handicap/ ">Etudiants en situation de handicap</a></li>
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/article/vie-etudiante-services-aux-etudiants-vss-et-discriminations/ ">Lutte contre les violences sexuelles et sexistes</a></li>
+	</ul></div>
+</li>
+	<li class="item-nav-principal-level-2"><p class="title-nav-principal-level-3">Procédures en ligne</p>
+			<div class="nav-principal-level-3 "><ul class="list-nav-principal-level-3">
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/procedures-en-ligne/candidats/ ">Candidats</a></li>
+<li class="item-nav-principal-level-3 "><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/procedures-en-ligne/etudiants/ ">Etudiants de l&rsquo;école</a></li>
+	</ul></div>
+</li>
+</ul></div>
+</li>
+<li class="item-nav-principal-level-1"><button type="button" class="cta-nav-principal-level-1" aria-controls="nav-principal-level-2-4" aria-expanded="false">Recherche</button>
+		<div class="nav-principal-level-2 " id='nav-principal-level-2-4'><div class="close-nav-principal-level-2"><button type="button" class="cta-close-nav-principal-level-2">Retour</button></div><ul class="list-nav-principal-level-2">
+	<li class="item-nav-principal-level-2"><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/recherche/une-recherche-en-reseau/ ">CPE Lyon : une recherche en réseau</a></li>
+	<li class="item-nav-principal-level-2"><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/recherche/laboratoires-chimie-genie-des-procedes/ ">Laboratoires de recherche en Chimie &#8211; procédés</a></li>
+	<li class="item-nav-principal-level-2"><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/recherche/laboratoires-science-du-numerique/ ">Laboratoires de recherche en Sciences et technologies du numérique</a></li>
+	<li class="item-nav-principal-level-2"><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/recherche/masters-et-doctorat/ ">Masters et doctorat</a></li>
+	<li class="item-nav-principal-level-2"><a class="cta-nav-principal-level-3" href="https://www.cpe.fr/article/recherche-prix-nobel-et-academiciens-parmi-les-alumni-cpe-lyon/ ">Prix Nobel et académiciens parmi les alumni CPE Lyon</a></li>
+</ul></div>
+</li>
+<li class="item-nav-principal-level-1"><a href=https://www.cpe.fr/actualite/ class="cta-nav-principal-level-1">Actualités / Blog</a></li>
+</ul></div>
+                                </nav>
+                                <div class="galaxy-resp">
+                                    <button type="button" class="title-galaxy-resp" aria-controls="content-galaxy-resp"
+                                            aria-expanded="false">Les sites CPE                                    </button>
+                                    <div class="content-galaxy-resp" id="content-galaxy-resp">
+                                        <div class="close-galaxy-resp">
+                                            <button type="button" class="cta-close-galaxy-resp">Retour</button>
+                                        </div>
+                                        <ul class="list-galaxy-resp">
+
+                                            
+                                                <li class="item-galaxy-resp">
+                                                    <a href="http://www.prepa.cpe.fr/" class="cta-galaxy-resp" target="_blank"
+                                                       title="Prépa CPE Lyon - Les Chartreux (nouvelle fenêtre)">Prépa CPE Lyon - Les Chartreux</a>
+                                                </li>
+
+                                            
+                                                <li class="item-galaxy-resp">
+                                                    <a href="https://temoignages.cpe.fr/fr/" class="cta-galaxy-resp" target="_blank"
+                                                       title="Blog "Témoignages" (nouvelle fenêtre)">Blog "Témoignages"</a>
+                                                </li>
+
+                                            
+                                                <li class="item-galaxy-resp">
+                                                    <a href="http://cpe-formation.fr/" class="cta-galaxy-resp" target="_blank"
+                                                       title="CPE Lyon Formation Continue (nouvelle fenêtre)">CPE Lyon Formation Continue</a>
+                                                </li>
+
+                                            
+                                                <li class="item-galaxy-resp">
+                                                    <a href="http://www.ingenieurs-cpe.fr/" class="cta-galaxy-resp" target="_blank"
+                                                       title="Ingénieurs CPE Lyon (nouvelle fenêtre)">Ingénieurs CPE Lyon</a>
+                                                </li>
+
+                                            
+                                                <li class="item-galaxy-resp">
+                                                    <a href="https://biofactory.cpe.fr/" class="cta-galaxy-resp" target="_blank"
+                                                       title="BioFactory (nouvelle fenêtre)">BioFactory</a>
+                                                </li>
+
+                                            
+                                                <li class="item-galaxy-resp">
+                                                    <a href="https://mycpe.cpe.fr/" class="cta-galaxy-resp" target="_blank"
+                                                       title="My CPE Lyon (nouvelle fenêtre)">My CPE Lyon</a>
+                                                </li>
+
+                                            
+                                                <li class="item-galaxy-resp">
+                                                    <a href="https://e-campus.cpe.fr/  " class="cta-galaxy-resp" target="_blank"
+                                                       title="E-campus (nouvelle fenêtre)">E-campus</a>
+                                                </li>
+
+                                            
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="tool-header">
+                    <div class="contrast-header">
+                        <a href="/wp-content/themes/cpe/img/logo-cpe.svg?contrast=1"
+                           class="cta-contrast-header"><span>Accès à la </span>Vue contrastée                        </a>
+                    </div>
+                    <div class="galaxy">
+                        <button type="button" class="title-galaxy" aria-controls="content-galaxy" aria-expanded="false">
+                            Les sites CPE                        </button>
+                        <div class="content-galaxy" id="content-galaxy">
+                            <ul class="list-galaxy">
+
+                                
+                                <li class="item-galaxy">
+                                    <a href="http://www.prepa.cpe.fr/" class="cta-galaxy" target="_blank"
+                                       title="Prépa CPE Lyon - Les Chartreux (nouvelle fenêtre)">Prépa CPE Lyon - Les Chartreux</a>
+                                </li>
+
+                                
+                                <li class="item-galaxy">
+                                    <a href="https://temoignages.cpe.fr/fr/" class="cta-galaxy" target="_blank"
+                                       title="Blog "Témoignages" (nouvelle fenêtre)">Blog "Témoignages"</a>
+                                </li>
+
+                                
+                                <li class="item-galaxy">
+                                    <a href="http://cpe-formation.fr/" class="cta-galaxy" target="_blank"
+                                       title="CPE Lyon Formation Continue (nouvelle fenêtre)">CPE Lyon Formation Continue</a>
+                                </li>
+
+                                
+                                <li class="item-galaxy">
+                                    <a href="http://www.ingenieurs-cpe.fr/" class="cta-galaxy" target="_blank"
+                                       title="Ingénieurs CPE Lyon (nouvelle fenêtre)">Ingénieurs CPE Lyon</a>
+                                </li>
+
+                                
+                                <li class="item-galaxy">
+                                    <a href="https://biofactory.cpe.fr/" class="cta-galaxy" target="_blank"
+                                       title="BioFactory (nouvelle fenêtre)">BioFactory</a>
+                                </li>
+
+                                
+                                <li class="item-galaxy">
+                                    <a href="https://mycpe.cpe.fr/" class="cta-galaxy" target="_blank"
+                                       title="My CPE Lyon (nouvelle fenêtre)">My CPE Lyon</a>
+                                </li>
+
+                                
+                                <li class="item-galaxy">
+                                    <a href="https://e-campus.cpe.fr/  " class="cta-galaxy" target="_blank"
+                                       title="E-campus (nouvelle fenêtre)">E-campus</a>
+                                </li>
+
+                                
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="lang">
+                        <ul class="list-lang">
+                            
+                                <li class="item-lang is-active">
+                                    <a href="https://www.cpe.fr/" class="cta-lang"
+                                       title="FR : Français (langue active)" lang="fr">
+                                        FR</a>
+                                </li>
+
+                            
+                                <li class="item-lang ">
+                                    <a href="https://www.cpe.fr/en/" class="cta-lang"
+                                       title="EN : English" lang="en">
+                                        EN</a>
+                                </li>
+
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+                        <div class="bottom-header">
+                <div class="search-header">
+                    <a id="anchor-search-header" tabindex="-1"></a>
+                    <button type="button" class="title-search-header" aria-controls="content-search-header"
+                            aria-expanded="false">Recherche                    </button>
+                    <div class="content-search-header" id="content-search-header">
+                        <div class="wrap-content-search-header">
+                            <div class="search">
+                                <div class="form-search">
+                                    <form role="search" method="GET" action="https://www.cpe.fr/recherche/">
+                                        <label class="visuallyhidden" for="search-input">Mots-clés</label>
+                                        <input id="search-input" type="search" class="input-text" placeholder="Mots-clés..." name="search">
+                                        <button type="submit" class="input-submit">Rechercher</button>
+                                    </form>
+                                </div>
+                            </div>
+                            <div class="close-search-header">
+                                <button type="button" class="cta-close-search-header">Fermer</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="profile-header">
+                    <button type="button" class="title-profile-header" aria-controls="content-profile-header"
+                            aria-expanded="false">Je suis                    </button>
+                    <div class="content-profile-header" id="content-profile-header">
+                        <p class="title-profile-header">Je suis</p>
+                        <ul class="list-profile-header">
+                            <li class="item-profile-header">
+                                <a class="cta-profile-header colorbox-page-profile" href="https://www.cpe.fr/profil-menu/?type=candidat"
+                                   title="Je suis un candidat">Candidat</a>
+                            </li>
+                            <li class="item-profile-header">
+                                <a class="cta-profile-header colorbox-page-profile" href="https://www.cpe.fr/profil-menu/?type=entreprise"
+                                   title="Je suis une entreprise">Entreprise</a>
+                            </li>
+                            <li class="item-profile-header">
+                                <a class="cta-profile-header colorbox-page-profile" href="https://www.cpe.fr/profil-menu/?type=etudiant-cpe"
+                                   title="Je suis un étudiant CPE">Etudiant CPE</a>
+                            </li>
+                            <li class="item-profile-header">
+                                <a class="cta-profile-header colorbox-page-profile" href="https://www.cpe.fr/profil-menu/?type=diplome"
+                                   title="Je suis diplômé">Diplômé</a>
+                            </li>
+                            <li class="item-profile-header">
+                                <a class="cta-profile-header colorbox-page-profile" href="https://www.cpe.fr/profil-menu/?type=journaliste"
+                                   title="Je suis journaliste">Journaliste</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                                    <div class="don-header">
+                        <a href="https://www.cpe.fr/soutenir-cpe-lyon/mecenat/" ><img src="https://www.cpe.fr/wp-content/themes/acti-main/img/picto-don.png" alt="DON"></a>
+                    </div>
+                
+                <div class="contact-header">
+                    <a class="cta-contact-header" href="https://www.cpe.fr/contact/">Contact</a>
+                </div>
+            </div>
+        </div>
+            </header>
+    <main role="main">
+        <div class="content">
+
+<a id="anchor-content" tabindex="-1"></a>
+<div class="wrap-content">
+	<div class="top-content">
+		<div class="banner-page">
+			<div class="media-banner">
+                <picture>
+                    <source type="image/webp" srcset="https://www.cpe.fr/wp-content/themes/acti-main/dist/img/tmp/media-banner-1.webp">
+                    <source type="image/jpeg" srcset="https://www.cpe.fr/wp-content/themes/acti-main/dist/img/tmp/media-banner-1.jpg">
+                    <img loading="lazy" src="https://www.cpe.fr/wp-content/themes/acti-main/dist/img/tmp/media-banner-1.jpg" alt="">
+                </picture>
+			</div>
+			<div class="wrap-banner">
+				<h1 class="title-banner">Oups, la page est introuvable ou momentanément indisponible</h1>
+			</div>
+		</div>
+	</div>
+	<div id="main-content" class="main-content type-center">
+
+		<article>
+			<div class="editor-wysiwyg">
+
+				<h2>Quelques causes probables</h2>
+
+				<ul>
+					<li>L'adresse de la page est incorrecte dans la barre de votre navigateur</li>
+					<li>La page n'existe plus</li>
+					<li>Vous n'êtes pas autorisé à consulter cette page</li>
+				</ul>
+
+				<h2>Pour retrouver votre chemin</h2>
+
+				<ul>
+					<li>Le plus simple à notre avis semble de repasser par <a href="https://www.cpe.fr/"
+																			  title="Retour à la page d'accueil">l'accueil</a>					</li>
+					<li>Mais vous pouvez également passer par le <a href="https://www.cpe.fr/plan-du-site/" title="Accès au plan du site">plan
+							du site</a> pour trouver une page précise					</li>
+					<li>Ou encore <a href="https://www.cpe.fr/contact/" title="Accès au formulaire de contact">nous contacter</a>
+						pour nous le signaler					</li>
+				</ul>
+
+			</div>
+		</article>
+	</div>
+</div>
+
+</div>
+</main>
+
+<footer role="contentinfo" id="footer" class="footer">
+    <div class="wrap-footer">
+        <div class="top-footer">
+            <div class="backtop">
+                <a class="cta-backtop" href="#anchor-body">Retour haut de page</a>
+            </div>
+            <div class="partner">
+                <p class="title-partner">Partenaires & réseaux</p>
+                <div class="content-partner">
+                    <ul class="list-partner">
+
+                    
+                        <li class="item-partner">
+                            <a class="block-partner" target="_blank" href="https://www.cti-commission.fr/" title="CTI (nouvelle fenêtre)">
+                                <div class="media-block-partner">
+                                                                        <picture>
+                                        <source type="image/webp" srcset="https://www.cpe.fr/wp-content/uploads/2017/05/logo-partner-1-lbox-84x84-FFFFFF.webp">
+                                        <source type="image/jpeg" srcset="https://www.cpe.fr/wp-content/uploads/2017/05/logo-partner-1-lbox-84x84-FFFFFF.jpg">
+                                        <img src="https://www.cpe.fr/wp-content/uploads/2017/05/logo-partner-1.jpg" alt="CTI">
+                                    </picture>
+                                </div>
+                            </a>
+                        </li>
+
+                    
+                        <li class="item-partner">
+                            <a class="block-partner" target="_blank" href="https://www.enseignementsup-recherche.gouv.fr/fr/la-qualification-d-etablissement-d-enseignement-superieur-prive-d-interet-general-eespig-46277" title="EESPIG (nouvelle fenêtre)">
+                                <div class="media-block-partner">
+                                                                        <picture>
+                                        <source type="image/webp" srcset="https://www.cpe.fr/wp-content/uploads/2017/06/BAT-EESPIGaccroche-vertical-lbox-84x84-FFFFFF.webp">
+                                        <source type="image/jpeg" srcset="https://www.cpe.fr/wp-content/uploads/2017/06/BAT-EESPIGaccroche-vertical-lbox-84x84-FFFFFF.jpg">
+                                        <img src="https://www.cpe.fr/wp-content/uploads/2017/06/BAT-EESPIGaccroche-vertical.jpg" alt="EESPIG">
+                                    </picture>
+                                </div>
+                            </a>
+                        </li>
+
+                    
+                        <li class="item-partner">
+                            <a class="block-partner" target="_blank" href="https://www.univ-lyon1.fr" title="Université Claude Bernard Lyon 1 (nouvelle fenêtre)">
+                                <div class="media-block-partner">
+                                                                        <picture>
+                                        <source type="image/webp" srcset="https://www.cpe.fr/wp-content/uploads/2017/06/lyon-1-lbox-84x84-FFFFFF.webp">
+                                        <source type="image/jpeg" srcset="https://www.cpe.fr/wp-content/uploads/2017/06/lyon-1-lbox-84x84-FFFFFF.jpg">
+                                        <img src="https://www.cpe.fr/wp-content/uploads/2017/06/lyon-1.jpg" alt="Université Claude Bernard Lyon 1">
+                                    </picture>
+                                </div>
+                            </a>
+                        </li>
+
+                    
+                        <li class="item-partner">
+                            <a class="block-partner" target="_blank" href="https://www.cge.asso.fr" title="CGE (nouvelle fenêtre)">
+                                <div class="media-block-partner">
+                                                                        <picture>
+                                        <source type="image/webp" srcset="https://www.cpe.fr/wp-content/uploads/2017/06/CGE_RVB-e1552480456127-lbox-84x84-FFFFFF.webp">
+                                        <source type="image/jpeg" srcset="https://www.cpe.fr/wp-content/uploads/2017/06/CGE_RVB-e1552480456127-lbox-84x84-FFFFFF.jpg">
+                                        <img src="https://www.cpe.fr/wp-content/uploads/2017/06/CGE_RVB-e1552480456127.jpg" alt="CGE">
+                                    </picture>
+                                </div>
+                            </a>
+                        </li>
+
+                    
+                        <li class="item-partner">
+                            <a class="block-partner" target="_blank" href="https://www.fesic.org/" title="FESIC (nouvelle fenêtre)">
+                                <div class="media-block-partner">
+                                                                        <picture>
+                                        <source type="image/webp" srcset="https://www.cpe.fr/wp-content/uploads/2017/06/fesic-lbox-84x84-FFFFFF.webp">
+                                        <source type="image/jpeg" srcset="https://www.cpe.fr/wp-content/uploads/2017/06/fesic-lbox-84x84-FFFFFF.jpg">
+                                        <img src="https://www.cpe.fr/wp-content/uploads/2017/06/fesic.jpg" alt="FESIC">
+                                    </picture>
+                                </div>
+                            </a>
+                        </li>
+
+                    
+                        <li class="item-partner">
+                            <a class="block-partner" target="_blank" href="https://www.puissance-alpha.fr/" title="Concours Puissance Alpha (nouvelle fenêtre)">
+                                <div class="media-block-partner">
+                                                                        <picture>
+                                        <source type="image/webp" srcset="https://www.cpe.fr/wp-content/uploads/2019/10/LOGO-PuissanceAlpha-simple-quadri-lbox-84x84-FFFFFF.webp">
+                                        <source type="image/jpeg" srcset="https://www.cpe.fr/wp-content/uploads/2019/10/LOGO-PuissanceAlpha-simple-quadri-lbox-84x84-FFFFFF.jpg">
+                                        <img src="https://www.cpe.fr/wp-content/uploads/2019/10/LOGO-PuissanceAlpha-simple-quadri.jpg" alt="Concours Puissance Alpha">
+                                    </picture>
+                                </div>
+                            </a>
+                        </li>
+
+                    
+                        <li class="item-partner">
+                            <a class="block-partner" target="_blank" href="https://www.concours-commun-inp.fr" title="Concours Commun INP (nouvelle fenêtre)">
+                                <div class="media-block-partner">
+                                                                        <picture>
+                                        <source type="image/webp" srcset="https://www.cpe.fr/wp-content/uploads/2017/06/2022_logo_CCINP_Couleur-lbox-84x84-FFFFFF.webp">
+                                        <source type="image/jpeg" srcset="https://www.cpe.fr/wp-content/uploads/2017/06/2022_logo_CCINP_Couleur-lbox-84x84-FFFFFF.jpg">
+                                        <img src="https://www.cpe.fr/wp-content/uploads/2017/06/2022_logo_CCINP_Couleur.jpg" alt="Concours Commun INP">
+                                    </picture>
+                                </div>
+                            </a>
+                        </li>
+
+                    
+                        <li class="item-partner">
+                            <a class="block-partner" target="_blank" href="https://www.campusfrance.org/fr/le-label-bienvenue-en-france" title="Label "Bienvenue en France" (nouvelle fenêtre)">
+                                <div class="media-block-partner">
+                                                                        <picture>
+                                        <source type="image/webp" srcset="https://www.cpe.fr/wp-content/uploads/2017/06/CampusF_Label_Bienv_2Etoil-lbox-84x84-FFFFFF.webp">
+                                        <source type="image/jpeg" srcset="https://www.cpe.fr/wp-content/uploads/2017/06/CampusF_Label_Bienv_2Etoil-lbox-84x84-FFFFFF.jpg">
+                                        <img src="https://www.cpe.fr/wp-content/uploads/2017/06/CampusF_Label_Bienv_2Etoil.jpg" alt="Label "Bienvenue en France"">
+                                    </picture>
+                                </div>
+                            </a>
+                        </li>
+
+                    
+                        <li class="item-partner">
+                            <a class="block-partner" target="_blank" href="https://www.itii-lyon.fr/" title="ITII de Lyon (nouvelle fenêtre)">
+                                <div class="media-block-partner">
+                                                                        <picture>
+                                        <source type="image/webp" srcset="https://www.cpe.fr/wp-content/uploads/2017/07/15.-ITII-lbox-84x84-FFFFFF.webp">
+                                        <source type="image/jpeg" srcset="https://www.cpe.fr/wp-content/uploads/2017/07/15.-ITII-lbox-84x84-FFFFFF.jpg">
+                                        <img src="https://www.cpe.fr/wp-content/uploads/2017/07/15.-ITII.jpg" alt="ITII de Lyon">
+                                    </picture>
+                                </div>
+                            </a>
+                        </li>
+
+                    
+                        <li class="item-partner">
+                            <a class="block-partner" target="_blank" href="https://www.leschartreux.net/" title="Institution des Chartreux (nouvelle fenêtre)">
+                                <div class="media-block-partner">
+                                                                        <picture>
+                                        <source type="image/webp" srcset="https://www.cpe.fr/wp-content/uploads/2017/07/14.-Charteux-lbox-84x84-FFFFFF.webp">
+                                        <source type="image/jpeg" srcset="https://www.cpe.fr/wp-content/uploads/2017/07/14.-Charteux-lbox-84x84-FFFFFF.jpg">
+                                        <img src="https://www.cpe.fr/wp-content/uploads/2017/07/14.-Charteux.jpg" alt="Institution des Chartreux">
+                                    </picture>
+                                </div>
+                            </a>
+                        </li>
+
+                    
+                        <li class="item-partner">
+                            <a class="block-partner" target="_blank" href="https://interfora-ifaip-cfa.com/" title="Interfora-Ifaip (nouvelle fenêtre)">
+                                <div class="media-block-partner">
+                                                                        <picture>
+                                        <source type="image/webp" srcset="https://www.cpe.fr/wp-content/uploads/2020/04/logo-HD-lbox-84x84-FFFFFF.webp">
+                                        <source type="image/jpeg" srcset="https://www.cpe.fr/wp-content/uploads/2020/04/logo-HD-lbox-84x84-FFFFFF.jpg">
+                                        <img src="https://www.cpe.fr/wp-content/uploads/2020/04/logo-HD.jpg" alt="Interfora-Ifaip">
+                                    </picture>
+                                </div>
+                            </a>
+                        </li>
+
+                    
+                        <li class="item-partner">
+                            <a class="block-partner" target="_blank" href="https://www.20ecolesdechimie.com" title="Fédération Gay-Lussac (nouvelle fenêtre)">
+                                <div class="media-block-partner">
+                                                                        <picture>
+                                        <source type="image/webp" srcset="https://www.cpe.fr/wp-content/uploads/2017/07/LogoFGL_couleur-scaled-e1695043476775-lbox-84x84-FFFFFF.webp">
+                                        <source type="image/jpeg" srcset="https://www.cpe.fr/wp-content/uploads/2017/07/LogoFGL_couleur-scaled-e1695043476775-lbox-84x84-FFFFFF.jpg">
+                                        <img src="https://www.cpe.fr/wp-content/uploads/2017/07/LogoFGL_couleur-scaled-e1695043476775.jpg" alt="Fédération Gay-Lussac">
+                                    </picture>
+                                </div>
+                            </a>
+                        </li>
+
+                    
+                        <li class="item-partner">
+                            <a class="block-partner" target="_blank" href="https://talentsdunumerique.com/" title="Talents du Numérique (nouvelle fenêtre)">
+                                <div class="media-block-partner">
+                                                                        <picture>
+                                        <source type="image/webp" srcset="https://www.cpe.fr/wp-content/uploads/2022/12/Talents-du-numérique_logo-lbox-84x84-FFFFFF.webp">
+                                        <source type="image/jpeg" srcset="https://www.cpe.fr/wp-content/uploads/2022/12/Talents-du-numérique_logo-lbox-84x84-FFFFFF.jpg">
+                                        <img src="https://www.cpe.fr/wp-content/uploads/2022/12/Talents-du-numérique_logo.jpg" alt="Talents du Numérique">
+                                    </picture>
+                                </div>
+                            </a>
+                        </li>
+
+                    
+                        <li class="item-partner">
+                            <a class="block-partner" target="_blank" href="https://www.agera.asso.fr/" title="AGERA (nouvelle fenêtre)">
+                                <div class="media-block-partner">
+                                                                        <picture>
+                                        <source type="image/webp" srcset="https://www.cpe.fr/wp-content/uploads/2017/06/agera-lbox-84x84-FFFFFF.webp">
+                                        <source type="image/jpeg" srcset="https://www.cpe.fr/wp-content/uploads/2017/06/agera-lbox-84x84-FFFFFF.jpg">
+                                        <img src="https://www.cpe.fr/wp-content/uploads/2017/06/agera.jpg" alt="AGERA">
+                                    </picture>
+                                </div>
+                            </a>
+                        </li>
+
+                    
+                        <li class="item-partner">
+                            <a class="block-partner" target="_blank" href="https://www.universite-lyon.fr" title="Université de Lyon (nouvelle fenêtre)">
+                                <div class="media-block-partner">
+                                                                        <picture>
+                                        <source type="image/webp" srcset="https://www.cpe.fr/wp-content/uploads/2017/09/UDL_Etablissement_Associe_noir-lbox-84x84-FFFFFF.webp">
+                                        <source type="image/jpeg" srcset="https://www.cpe.fr/wp-content/uploads/2017/09/UDL_Etablissement_Associe_noir-lbox-84x84-FFFFFF.jpg">
+                                        <img src="https://www.cpe.fr/wp-content/uploads/2017/09/UDL_Etablissement_Associe_noir.jpg" alt="Université de Lyon">
+                                    </picture>
+                                </div>
+                            </a>
+                        </li>
+
+                    
+                        <li class="item-partner">
+                            <a class="block-partner" target="_blank" href="https://www.education.gouv.fr/le-programme-erasmus-9890" title="Erasmus + (nouvelle fenêtre)">
+                                <div class="media-block-partner">
+                                                                        <picture>
+                                        <source type="image/webp" srcset="https://www.cpe.fr/wp-content/uploads/2025/01/Erasmus_logo-lbox-84x84-FFFFFF.webp">
+                                        <source type="image/jpeg" srcset="https://www.cpe.fr/wp-content/uploads/2025/01/Erasmus_logo-lbox-84x84-FFFFFF.jpg">
+                                        <img src="https://www.cpe.fr/wp-content/uploads/2025/01/Erasmus_logo.jpg" alt="Erasmus +">
+                                    </picture>
+                                </div>
+                            </a>
+                        </li>
+
+                    
+                        <li class="item-partner">
+                            <a class="block-partner" target="_blank" href="https://www.auvergnerhonealpes.fr/" title="Région Auvergne Rhône-Alpes (nouvelle fenêtre)">
+                                <div class="media-block-partner">
+                                                                        <picture>
+                                        <source type="image/webp" srcset="https://www.cpe.fr/wp-content/uploads/2017/07/9.-Region-lbox-84x84-FFFFFF.webp">
+                                        <source type="image/jpeg" srcset="https://www.cpe.fr/wp-content/uploads/2017/07/9.-Region-lbox-84x84-FFFFFF.jpg">
+                                        <img src="https://www.cpe.fr/wp-content/uploads/2017/07/9.-Region.jpg" alt="Région Auvergne Rhône-Alpes">
+                                    </picture>
+                                </div>
+                            </a>
+                        </li>
+
+                    
+                        <li class="item-partner">
+                            <a class="block-partner" target="_blank" href="https://www.grandlyon.com/" title="Grand Lyon Métropole (nouvelle fenêtre)">
+                                <div class="media-block-partner">
+                                                                        <picture>
+                                        <source type="image/webp" srcset="https://www.cpe.fr/wp-content/uploads/2017/07/10.-grand_lyon_metropole_logo-lbox-84x84-FFFFFF.webp">
+                                        <source type="image/jpeg" srcset="https://www.cpe.fr/wp-content/uploads/2017/07/10.-grand_lyon_metropole_logo-lbox-84x84-FFFFFF.jpg">
+                                        <img src="https://www.cpe.fr/wp-content/uploads/2017/07/10.-grand_lyon_metropole_logo.jpg" alt="Grand Lyon Métropole">
+                                    </picture>
+                                </div>
+                            </a>
+                        </li>
+
+                    
+                        <li class="item-partner">
+                            <a class="block-partner" target="_blank" href="https://www.lyon-metropole.cci.fr/" title="CCI de Lyon (nouvelle fenêtre)">
+                                <div class="media-block-partner">
+                                                                        <picture>
+                                        <source type="image/webp" srcset="https://www.cpe.fr/wp-content/uploads/2023/07/2023-cci-lyon-metropole-saint-etienne-roanne-scaled-lbox-84x84-FFFFFF.webp">
+                                        <source type="image/jpeg" srcset="https://www.cpe.fr/wp-content/uploads/2023/07/2023-cci-lyon-metropole-saint-etienne-roanne-scaled-lbox-84x84-FFFFFF.jpg">
+                                        <img src="https://www.cpe.fr/wp-content/uploads/2023/07/2023-cci-lyon-metropole-saint-etienne-roanne-scaled.jpg" alt="CCI de Lyon">
+                                    </picture>
+                                </div>
+                            </a>
+                        </li>
+
+                    
+                        <li class="item-partner">
+                            <a class="block-partner" target="_blank" href="https://www.onlylyon.com" title="OnlyLyon (nouvelle fenêtre)">
+                                <div class="media-block-partner">
+                                                                        <picture>
+                                        <source type="image/webp" srcset="https://www.cpe.fr/wp-content/uploads/2017/06/onlylyon-lbox-84x84-FFFFFF.webp">
+                                        <source type="image/jpeg" srcset="https://www.cpe.fr/wp-content/uploads/2017/06/onlylyon-lbox-84x84-FFFFFF.jpg">
+                                        <img src="https://www.cpe.fr/wp-content/uploads/2017/06/onlylyon.jpg" alt="OnlyLyon">
+                                    </picture>
+                                </div>
+                            </a>
+                        </li>
+
+                    
+                        <li class="item-partner">
+                            <a class="block-partner" target="_blank" href="http://www.cdefi.fr/" title="CDEFI (nouvelle fenêtre)">
+                                <div class="media-block-partner">
+                                                                        <picture>
+                                        <source type="image/webp" srcset="https://www.cpe.fr/wp-content/uploads/2019/11/Logo-avec-baseline-lbox-84x84-FFFFFF.webp">
+                                        <source type="image/jpeg" srcset="https://www.cpe.fr/wp-content/uploads/2019/11/Logo-avec-baseline-lbox-84x84-FFFFFF.jpg">
+                                        <img src="https://www.cpe.fr/wp-content/uploads/2019/11/Logo-avec-baseline.jpg" alt="CDEFI">
+                                    </picture>
+                                </div>
+                            </a>
+                        </li>
+
+                    
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="main-footer">
+            <div class="logo-footer">
+                <div class="block-logo-footer">
+                    <div class="media-block-logo-footer">
+                        <img src="https://www.cpe.fr/wp-content/themes/acti-main/img/logo-cpe-bleu-notext.svg"
+                             alt="CPE Lyon - Ecole Supérieure de Chimie Physique Electronique de Lyon">
+                    </div>
+                </div>
+            </div>
+            <div class="contact-footer">
+                <a href="https://www.cpe.fr/coordonnees-acces-contact/" class="title-contact-footer cta-nav-footer">Rendez-nous visite</a>
+                <div class="text-contact-footer">
+                    <p>
+                        Domaine Scientifique de la Doua<br>
+                        Bâtiment Hubert Curien<br>
+                        43, boulevard du 11 Novembre 1918<br>
+                        BP 82077 - 69616 Villeurbanne Cedex<br>
+                        <strong>Tél.&nbsp;: 33 (0)4 72 43 17 00</strong>
+                    </p>
+                </div>
+                <a class="cta-contact-footer" href="https://www.cpe.fr/contact/">Contactez-nous</a>
+            </div>
+            <div class="social-footer">
+                <p class="title-social-footer">Suivez-nous sur les réseaux sociaux</p>
+                <div class="social">
+                    <ul class="list-social">
+                        <li class="item-social type-twitter">
+                            <a class="cta-social" href="" target="_blank"
+                               title="Suivez-nous sur X (nouvelle fenêtre)">Twitter</a>
+                        </li>
+                        <li class="item-social type-facebook">
+                            <a class="cta-social" href="https://www.facebook.com/cpelyon" target="_blank"
+                               title="Suivez-nous sur Facebook (nouvelle fenêtre)">Facebook</a>
+                        </li>
+                        <li class="item-social type-tiktok">
+                            <a class="cta-social" href="https://www.tiktok.com/@cpelyon" target="_blank"
+                               title="Suivez-nous sur TikTok (nouvelle fenêtre)">TikTok</a>
+                        </li>
+                        <li class="item-social type-instagram">
+                            <a class="cta-social" href="https://www.instagram.com/cpe.lyon" target="_blank"
+                               title="Suivez-nous sur Instagram (nouvelle fenêtre)">Instagram</a>
+                        </li>
+                        <li class="item-social type-linkedin">
+                            <a class="cta-social" href="https://fr.linkedin.com" target="_blank"
+                               title="Suivez-nous sur LinkedIn (nouvelle fenêtre)">LinkedIn</a>
+                        </li>
+                        <li class="item-social type-youtube">
+                            <a class="cta-social" href="https://www.youtube.com/user/CPELyon/videos" target="_blank"
+                               title="Suivez-nous sur YouTube (nouvelle fenêtre)">YouTube</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="bottom-footer">
+            <div class="nav-footer">
+                <ul class="list-nav-footer">
+
+                                            
+                        <li class="item-nav-footer">
+                            <a class="cta-nav-footer" href="https://www.cpe.fr/formations/">Nos formations</a>
+                        </li>
+
+                        
+                        <li class="item-nav-footer">
+                            <a class="cta-nav-footer" href="https://www.cpe.fr/mentions-legales/">Mentions légales</a>
+                        </li>
+
+                        
+                        <li class="item-nav-footer">
+                            <a class="cta-nav-footer" href="https://www.cpe.fr/contact/">Contact</a>
+                        </li>
+
+                        
+                        <li class="item-nav-footer">
+                            <a class="cta-nav-footer" href="https://www.cpe.fr/aide-et-accessibilite/">Aide et accessibilité</a>
+                        </li>
+
+                        
+                        <li class="item-nav-footer">
+                            <a class="cta-nav-footer" href="https://www.cpe.fr/plan-du-site/">Plan du site</a>
+                        </li>
+
+                                            
+                    <li class="item-nav-footer">
+                        <a class="cta-nav-footer" target="_blank" href="http://www.acti.fr/" title="Création acti (nouvelle fenêtre)">Création acti</a>
+                    </li>
+                </ul>
+            </div>
+
+
+        </div>
+    </div>
+</footer>
+
+<!-- @DEV : translations for JS plugins -->
+<div id="acti-data">
+    <div class="data-text-close" data-value="Fermer"></div>
+    <div class="data-text-previous" data-value="Précédent"></div>
+    <div class="data-text-next" data-value="Suivant"></div>
+</div>
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/acti-main\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe data-cli-class="cli-blocker-script" data-cli-label="Google Tag Manager"  data-cli-script-type="analytics" data-cli-block="true" data-cli-block-if-ccpa-optout="false" data-cli-element-position="body" data-cli-placeholder="Acceptez <a class='cli_manage_current_consent'  tabindex='0'> Analytics</a> cookies pour afficher le contenu." data-cli-src="https://www.googletagmanager.com/ns.html?id=GTM-NNMDKPV"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><!-- Google Tag Manager (noscript) -->
+<noscript><iframe data-cli-class="cli-blocker-script" data-cli-label="Google Tag Manager"  data-cli-script-type="analytics" data-cli-block="true" data-cli-block-if-ccpa-optout="false" data-cli-element-position="body" data-cli-placeholder="Acceptez <a class='cli_manage_current_consent'  tabindex='0'> Analytics</a> cookies pour afficher le contenu." data-cli-src="https://www.googletagmanager.com/ns.html?id=GTM-NNMDKPV"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><div class="wt-cli-cookie-bar-container" data-nosnippet="true"  data-banner-version="2.0"><!--googleoff: all--><div id="cookie-law-info-bar" role="dialog" aria-live="polite" aria-label="cookieconsent" aria-describedby="wt-cli-cookie-banner" data-cli-geo-loc="0" style="text-align:left; padding:15px 30px; border-color:rgb(51, 51, 51); ;" class="wt-cli-cookie-bar"><div class="cli-wrapper"><h5 role="heading" aria-level="5" tabindex="0" id="wt-cli-cookie-banner-title" style="display:block; background-color:rgba(0, 0, 0, 0); color:rgb(51, 51, 51); border-color:rgb(51, 51, 51); font-size:16px; font-weight:bold; margin-bottom:2rem;">Ce site web utilise des cookies</h5><span id="wt-cli-cookie-banner"><div class="cli-bar-container cli-style-v2"><div class="cli-bar-message"> Nous utilisons des cookies sur notre site Web pour vous offrir l'expérience la plus pertinente en mémorisant vos préférences et en répétant vos visites. En cliquant sur "Accepter tout", vous consentez à l'utilisation de TOUS les cookies. Cependant, vous pouvez visiter les paramètres des cookies pour fournir un consentement contrôlé. <br />
+Les cookies Ads sont utilisés pour la personnalisation des publicités.<br />
+Consultez <a href="https://www.cpe.fr/mentions-legales/">notre politique de confidentialité</a>.<br />
+</div><div class="cli-bar-btn_container"><a id="wt-cli-reject-btn" tabindex="0" role='button' style="border-radius:0px; padding:8px 25px; border-color:rgb(255, 255, 255); text-align:center; margin-top:2rem;"  class="wt-cli-element medium cli-plugin-button cli-plugin-main-button cookie_action_close_header_reject cli_action_button"  data-cli_action="reject">Refuser tout</a><a id="wt-cli-accept-all-btn" tabindex="0" role='button' style="border-radius:0px; padding:8px 25px; border-color:rgb(255, 255, 255); text-align:center; margin-top:2rem;" data-cli_action="accept_all"  class="wt-cli-element medium cli-plugin-button wt-cli-accept-all-btn cookie_action_close_header cli_action_button" >Accepter tout</a><a id="wt-cli-settings-btn" tabindex="0" role='button' style="border-radius:0px; margin-top:1rem; grid-column:1 / 3; width:calc(50% - 0.5rem); padding:8px 25px; justify-self:center; text-align:center; border-color:rgb(255, 255, 255);" class="wt-cli-element cli_settings_button"  >Paramètres des Cookies</a></div></div></span></div></div><div tabindex="0" id="cookie-law-info-again" style="display:none;"><span id="cookie_hdr_showagain">Préférences cookies</span></div><div class="cli-modal" id="cliSettingsPopup" role="dialog" aria-labelledby="wt-cli-privacy-title" tabindex="-1" aria-hidden="true">
+  <div class="cli-modal-dialog" role="document">
+    <div class="cli-modal-content cli-bar-popup">
+      <button aria-label="Fermer" type="button" class="cli-modal-close" id="cliModalClose">
+      <svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"></path><path d="M0 0h24v24h-24z" fill="none"></path></svg>
+      <span class="wt-cli-sr-only">Fermer</span>
+      </button>
+        <div class="cli-modal-body">
+
+    <div class="wt-cli-element cli-container-fluid cli-tab-container">
+        <div class="cli-row">
+                            <div class="cli-col-12 cli-align-items-stretch cli-px-0">
+                    <div class="cli-privacy-overview">
+                        <h4 id='wt-cli-privacy-title'>Vue globale de confidentialité</h4>                        <div class="cli-privacy-content">
+                            <div class="cli-privacy-content-text">Ce site Web utilise des cookies pour améliorer votre expérience lorsque vous naviguez sur le site Web. Parmi ces cookies, les cookies classés comme nécessaires sont stockés sur votre navigateur car ils sont essentiels au fonctionnement des fonctionnalités de base du site Web. Nous utilisons également des cookies tiers qui nous aident à analyser et à comprendre comment vous utilisez ce site Web. Ces cookies ne seront stockés dans votre navigateur qu'avec votre consentement. Vous avez également la possibilité de désactiver ces cookies. Mais la désactivation de certains de ces cookies peut avoir un effet sur votre expérience de navigation.</div>
+                        </div>
+                        <a id="wt-cli-privacy-readmore"  tabindex="0" role="button" class="cli-privacy-readmore" data-readmore-text="Afficher plus" data-readless-text="Afficher moins"></a>                    </div>
+                </div>
+                        <div class="cli-col-12 cli-align-items-stretch cli-px-0 cli-tab-section-container" role="tablist">
+
+                
+                                    <div class="cli-tab-section">
+                        <div class="cli-tab-header">
+                            <a id="wt-cli-tab-link-necessary" tabindex="0" role="tab" aria-expanded="false" aria-describedby="wt-cli-tab-necessary" aria-controls="wt-cli-tab-necessary" class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab">
+                                Necessary                            </a>
+                                                                                        <div class="wt-cli-necessary-checkbox">
+                                    <input type="checkbox" class="cli-user-preference-checkbox" id="wt-cli-checkbox-necessary" aria-label="Necessary" data-id="checkbox-necessary" checked="checked" />
+                                    <label class="form-check-label" for="wt-cli-checkbox-necessary"> Necessary </label>
+                                </div>
+                                <span class="cli-necessary-caption">
+                                    Toujours activé                                </span>
+                                                    </div>
+                        <div class="cli-tab-content">
+                            <div id="wt-cli-tab-necessary" tabindex="0" role="tabpanel" aria-labelledby="wt-cli-tab-link-necessary" class="cli-tab-pane cli-fade" data-id="necessary">
+                            <div class="wt-cli-cookie-description">Les cookies nécessaires sont absolument essentiels au bon fonctionnement du site Web. Ces cookies assurent les fonctionnalités de base et les éléments de sécurité du site Web, de manière anonyme.
+<table class="wt-cli-element cookielawinfo-row-cat-table cookielawinfo-winter"><thead><tr><th scope="col" class="cookielawinfo-column-1">Cookie</th><th scope="col" class="cookielawinfo-column-3">Durée</th><th scope="col" class="cookielawinfo-column-4">Description</th></tr></thead><tbody><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">_GRECAPTCHA</td><td class="cookielawinfo-column-3">5 months 27 days</td><td class="cookielawinfo-column-4">Ce cookie est défini par le service Google recaptcha pour identifier les robots afin de protéger le site Web contre les attaques de spam malveillantes.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">AWSELB</td><td class="cookielawinfo-column-3"></td><td class="cookielawinfo-column-4">Ce cookie est associé à Amazon Web Services et est utilisé pour gérer les sessions persistantes sur les serveurs de production.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">cookielawinfo-checbox-analytics</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">Ce cookie est défini par le plugin GDPR Cookie Consent. Le cookie est utilisé pour stocker le consentement de l'utilisateur pour les cookies dans la catégorie "Analytics".</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">cookielawinfo-checbox-functional</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">Ce cookie est défini par le plugin GDPR Cookie Consent. Le cookie est utilisé pour stocker le consentement de l'utilisateur pour les cookies dans la catégorie "Functional".</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">cookielawinfo-checbox-others</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">Ce cookie est défini par le plugin GDPR Cookie Consent. Le cookie est utilisé pour stocker le consentement de l'utilisateur pour les cookies dans la catégorie "Others"</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">cookielawinfo-checkbox-advertisement</td><td class="cookielawinfo-column-3">1 year</td><td class="cookielawinfo-column-4">Le cookie est défini par le consentement aux cookies GDPR pour enregistrer le consentement de l'utilisateur pour les cookies dans la catégorie "Publicité".</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">cookielawinfo-checkbox-necessary</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">Ce cookie est défini par le plugin GDPR Cookie Consent. Le cookie est utilisé pour stocker le consentement de l'utilisateur pour les cookies dans la catégorie "Necessary".</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">cookielawinfo-checkbox-performance</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">Ce cookie est défini par le plugin GDPR Cookie Consent. Le cookie est utilisé pour stocker le consentement de l'utilisateur pour les cookies dans la catégorie "Performance".</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">PHPSESSID</td><td class="cookielawinfo-column-3">session</td><td class="cookielawinfo-column-4">Ce cookie est natif des applications PHP. Le cookie est utilisé pour stocker et identifier l'identifiant de session unique d'un utilisateur dans le but de gérer la session de l'utilisateur sur le site Web. Le cookie est un cookie de session et est supprimé lorsque toutes les fenêtres du navigateur sont fermées.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">viewed_cookie_policy</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">Le cookie est défini par le plugin GDPR Cookie Consent et est utilisé pour stocker si l'utilisateur a consenti ou non à l'utilisation de cookies. Il ne stocke aucune donnée personnelle.</td></tr></tbody></table></div>
+                            </div>
+                        </div>
+                    </div>
+                                    <div class="cli-tab-section">
+                        <div class="cli-tab-header">
+                            <a id="wt-cli-tab-link-functional" tabindex="0" role="tab" aria-expanded="false" aria-describedby="wt-cli-tab-functional" aria-controls="wt-cli-tab-functional" class="cli-nav-link cli-settings-mobile" data-target="functional" data-toggle="cli-toggle-tab">
+                                Functional                            </a>
+                                                                                        <div class="cli-switch">
+                                    <input type="checkbox" class="cli-user-preference-checkbox"  id="wt-cli-checkbox-functional" aria-label="functional" data-id="checkbox-functional" role="switch" aria-controls="wt-cli-tab-link-functional" aria-labelledby="wt-cli-tab-link-functional"  />
+                                    <label for="wt-cli-checkbox-functional" class="cli-slider" data-cli-enable="Activée" data-cli-disable="Désactivée"><span class="wt-cli-sr-only">functional</span></label>
+                                </div>
+                                                    </div>
+                        <div class="cli-tab-content">
+                            <div id="wt-cli-tab-functional" tabindex="0" role="tabpanel" aria-labelledby="wt-cli-tab-link-functional" class="cli-tab-pane cli-fade" data-id="functional">
+                            <div class="wt-cli-cookie-description">Les cookies fonctionnels aident à exécuter certaines fonctionnalités telles que le partage du contenu du site Web sur les plateformes de médias sociaux, la collecte de commentaires et d'autres fonctionnalités tierces.
+<table class="wt-cli-element cookielawinfo-row-cat-table cookielawinfo-winter"><thead><tr><th scope="col" class="cookielawinfo-column-1">Cookie</th><th scope="col" class="cookielawinfo-column-3">Durée</th><th scope="col" class="cookielawinfo-column-4">Description</th></tr></thead><tbody><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">__cf_bm</td><td class="cookielawinfo-column-3">30 minutes</td><td class="cookielawinfo-column-4">Ce cookie, défini par Cloudflare, est utilisé pour prendre en charge Cloudflare Bot Management.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">__hssc</td><td class="cookielawinfo-column-3">30 minutes</td><td class="cookielawinfo-column-4">Ce cookie est défini par HubSpot. Le but du cookie est de garder une trace des sessions. Ceci est utilisé pour déterminer si HubSpot doit incrémenter le numéro de session et les horodatages dans le cookie __hstc. Il contient le domaine, viewCount (incrémente chaque pageView dans une session) et l'horodatage de début de session.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">__hssrc</td><td class="cookielawinfo-column-3">session</td><td class="cookielawinfo-column-4">Ce cookie est défini par Hubspot. Selon leur documentation, chaque fois que HubSpot modifie le cookie de session, ce cookie est également défini pour déterminer si le visiteur a redémarré son navigateur. Si ce cookie n'existe pas lorsque HubSpot gère les cookies, il est considéré comme une nouvelle session.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">JSESSIONID</td><td class="cookielawinfo-column-3"></td><td class="cookielawinfo-column-4">Utilisé par les sites écrits en JSP. Cookies de session de plate-forme à usage général qui sont utilisés pour maintenir l'état des utilisateurs à travers les demandes de page.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">WEBSRVID</td><td class="cookielawinfo-column-3">session</td><td class="cookielawinfo-column-4">Ce cookie est destiné à optimiser les performances du site. Il ne stocke aucune donnée personnelle.</td></tr></tbody></table></div>
+                            </div>
+                        </div>
+                    </div>
+                                    <div class="cli-tab-section">
+                        <div class="cli-tab-header">
+                            <a id="wt-cli-tab-link-performance" tabindex="0" role="tab" aria-expanded="false" aria-describedby="wt-cli-tab-performance" aria-controls="wt-cli-tab-performance" class="cli-nav-link cli-settings-mobile" data-target="performance" data-toggle="cli-toggle-tab">
+                                Performance                            </a>
+                                                                                        <div class="cli-switch">
+                                    <input type="checkbox" class="cli-user-preference-checkbox"  id="wt-cli-checkbox-performance" aria-label="performance" data-id="checkbox-performance" role="switch" aria-controls="wt-cli-tab-link-performance" aria-labelledby="wt-cli-tab-link-performance"  />
+                                    <label for="wt-cli-checkbox-performance" class="cli-slider" data-cli-enable="Activée" data-cli-disable="Désactivée"><span class="wt-cli-sr-only">performance</span></label>
+                                </div>
+                                                    </div>
+                        <div class="cli-tab-content">
+                            <div id="wt-cli-tab-performance" tabindex="0" role="tabpanel" aria-labelledby="wt-cli-tab-link-performance" class="cli-tab-pane cli-fade" data-id="performance">
+                            <div class="wt-cli-cookie-description">Les cookies de performance sont utilisés pour comprendre et analyser les indices de performance clés du site Web, ce qui contribue à offrir une meilleure expérience utilisateur aux visiteurs.
+</div>
+                            </div>
+                        </div>
+                    </div>
+                                    <div class="cli-tab-section">
+                        <div class="cli-tab-header">
+                            <a id="wt-cli-tab-link-analytics" tabindex="0" role="tab" aria-expanded="false" aria-describedby="wt-cli-tab-analytics" aria-controls="wt-cli-tab-analytics" class="cli-nav-link cli-settings-mobile" data-target="analytics" data-toggle="cli-toggle-tab">
+                                Analytics                            </a>
+                                                                                        <div class="cli-switch">
+                                    <input type="checkbox" class="cli-user-preference-checkbox"  id="wt-cli-checkbox-analytics" aria-label="analytics" data-id="checkbox-analytics" role="switch" aria-controls="wt-cli-tab-link-analytics" aria-labelledby="wt-cli-tab-link-analytics"  />
+                                    <label for="wt-cli-checkbox-analytics" class="cli-slider" data-cli-enable="Activée" data-cli-disable="Désactivée"><span class="wt-cli-sr-only">analytics</span></label>
+                                </div>
+                                                    </div>
+                        <div class="cli-tab-content">
+                            <div id="wt-cli-tab-analytics" tabindex="0" role="tabpanel" aria-labelledby="wt-cli-tab-link-analytics" class="cli-tab-pane cli-fade" data-id="analytics">
+                            <div class="wt-cli-cookie-description">Les cookies analytiques sont utilisés pour comprendre comment les visiteurs interagissent avec le site Web. Ces cookies aident à fournir des informations sur les métriques du nombre de visiteurs, du taux de rebond, de la source du trafic, etc.
+<table class="wt-cli-element cookielawinfo-row-cat-table cookielawinfo-winter"><thead><tr><th scope="col" class="cookielawinfo-column-1">Cookie</th><th scope="col" class="cookielawinfo-column-3">Durée</th><th scope="col" class="cookielawinfo-column-4">Description</th></tr></thead><tbody><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">__hstc</td><td class="cookielawinfo-column-3">1 year 24 days</td><td class="cookielawinfo-column-4">Ce cookie est défini par Hubspot et est utilisé pour suivre les visiteurs. Il contient le domaine, utk, l'horodatage initial (première visite), le dernier horodatage (dernière visite), l'horodatage actuel (cette visite) et le numéro de session (incréments pour chaque session suivante).</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">_ga</td><td class="cookielawinfo-column-3">2 years</td><td class="cookielawinfo-column-4">Ces cookies sont installés par Google Analytics.
+Les cookies analytics sont utilisés pour calculer les visiteurs, les sessions, les données de campagne et suivre l'utilisation du site pour le rapport d'analyse du site.
+Les cookies stockent des informations de manière anonyme et attribuent un numéro généré de manière aléatoire pour identifier les visiteurs uniques.
+Nous vous invitons à consulter <a href="https://policies.google.com/technologies/partner-sites">la politique de confidentialité de Google</a></td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">_ga_C7W8D6DG2Q</td><td class="cookielawinfo-column-3">2 years</td><td class="cookielawinfo-column-4">Ce cookie est installé par Google Analytics.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">_ga_D2VKV0P6GW</td><td class="cookielawinfo-column-3">2 years</td><td class="cookielawinfo-column-4">Ce cookie est installé par Google Analytics.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">_ga_V8D1GRPLX1</td><td class="cookielawinfo-column-3">2 years</td><td class="cookielawinfo-column-4">Ce cookie est installé par Google Analytics.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">_gat_UA-6187496-1</td><td class="cookielawinfo-column-3">1 minute</td><td class="cookielawinfo-column-4">Une variante du cookie _gat défini par Google Analytics et Google Tag Manager pour permettre aux propriétaires de sites Web de suivre le comportement des visiteurs et de mesurer les performances du site. L'élément de modèle dans le nom contient le numéro d'identité unique du compte ou du site Web auquel il se rapporte.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">_gcl_au</td><td class="cookielawinfo-column-3">3 months</td><td class="cookielawinfo-column-4">Ce cookie est utilisé par Google Analytics pour comprendre l'interaction de l'utilisateur avec le site Web.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">_gid</td><td class="cookielawinfo-column-3">1 day</td><td class="cookielawinfo-column-4">Ce cookie est installé par Google Analytics. Le cookie est utilisé pour stocker des informations sur la façon dont les visiteurs utilisent un site Web et aide à créer un rapport analytique sur le fonctionnement du site Web. Les données collectées comprennent le nombre de visiteurs, la source d'où ils viennent et les pages visitées sous une forme anonyme.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">hubspotutk</td><td class="cookielawinfo-column-3">1 year 24 days</td><td class="cookielawinfo-column-4">Ce cookie est utilisé par HubSpot pour suivre les visiteurs du site Web. Ce cookie est transmis à Hubspot lors de la soumission du formulaire et utilisé lors de la déduplication des contacts.</td></tr></tbody></table></div>
+                            </div>
+                        </div>
+                    </div>
+                                    <div class="cli-tab-section">
+                        <div class="cli-tab-header">
+                            <a id="wt-cli-tab-link-advertisement" tabindex="0" role="tab" aria-expanded="false" aria-describedby="wt-cli-tab-advertisement" aria-controls="wt-cli-tab-advertisement" class="cli-nav-link cli-settings-mobile" data-target="advertisement" data-toggle="cli-toggle-tab">
+                                Advertisement                            </a>
+                                                                                        <div class="cli-switch">
+                                    <input type="checkbox" class="cli-user-preference-checkbox"  id="wt-cli-checkbox-advertisement" aria-label="advertisement" data-id="checkbox-advertisement" role="switch" aria-controls="wt-cli-tab-link-advertisement" aria-labelledby="wt-cli-tab-link-advertisement"  />
+                                    <label for="wt-cli-checkbox-advertisement" class="cli-slider" data-cli-enable="Activée" data-cli-disable="Désactivée"><span class="wt-cli-sr-only">advertisement</span></label>
+                                </div>
+                                                    </div>
+                        <div class="cli-tab-content">
+                            <div id="wt-cli-tab-advertisement" tabindex="0" role="tabpanel" aria-labelledby="wt-cli-tab-link-advertisement" class="cli-tab-pane cli-fade" data-id="advertisement">
+                            <div class="wt-cli-cookie-description">Les cookies publicitaires sont utilisés pour fournir aux visiteurs des publicités et des campagnes marketing pertinentes. Ces cookies suivent les visiteurs sur les sites Web et collectent des informations pour fournir des publicités personnalisées.
+<table class="wt-cli-element cookielawinfo-row-cat-table cookielawinfo-winter"><thead><tr><th scope="col" class="cookielawinfo-column-1">Cookie</th><th scope="col" class="cookielawinfo-column-3">Durée</th><th scope="col" class="cookielawinfo-column-4">Description</th></tr></thead><tbody><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">_fbp</td><td class="cookielawinfo-column-3">3 months</td><td class="cookielawinfo-column-4">Ce cookie est défini par Facebook pour diffuser des publicités lorsqu'ils sont sur Facebook ou sur une plate-forme numérique alimentée par la publicité Facebook après avoir visité ce site Web.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">_tt_enable_cookie</td><td class="cookielawinfo-column-3">1 year 24 days</td><td class="cookielawinfo-column-4">Tiktok a installé ce cookie pour collecter des données sur le comportement et les activités sur le site Web et pour mesurer l'efficacité de la publicité.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">_ttp</td><td class="cookielawinfo-column-3">1 year 24 days</td><td class="cookielawinfo-column-4">TikTok a installé ce cookie pour suivre et améliorer les performances des campagnes publicitaires, ainsi que pour personnaliser l'expérience utilisateur.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">fr</td><td class="cookielawinfo-column-3">3 months</td><td class="cookielawinfo-column-4">Le cookie est défini par Facebook pour montrer des publicités pertinentes aux utilisateurs et mesurer et améliorer les publicités. Le cookie suit également le comportement de l'utilisateur sur le Web sur des sites dotés d'un pixel Facebook ou d'un plugin social Facebook.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">id</td><td class="cookielawinfo-column-3"></td><td class="cookielawinfo-column-4">Le but principal de ce cookie est le ciblage et la publicité. Il est utilisé pour créer un profil d'intérêt de l'utilisateur et pour afficher des publicités pertinentes sur son site. Ce cookie est défini par DoubleClick, qui appartient à Google.
+Les cookies Google Ads sont utilisés pour la personnalisation des publicités.
+Nous vous invitons à consulter <a href="https://policies.google.com/technologies/partner-sites">la politique de confidentialité de Google</a></td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">IDE</td><td class="cookielawinfo-column-3">1 year 24 days</td><td class="cookielawinfo-column-4">Utilisé par Google DoubleClick et stocke des informations sur la façon dont l'utilisateur utilise le site Web et toute autre publicité avant de visiter le site Web. Ceci est utilisé pour présenter aux utilisateurs des publicités qui les concernent en fonction du profil de l'utilisateur.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">test_cookie</td><td class="cookielawinfo-column-3">15 minutes</td><td class="cookielawinfo-column-4">Ce cookie est défini par doubleclick.net. Le but du cookie est de déterminer si le navigateur de l'utilisateur prend en charge les cookies.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">VISITOR_INFO1_LIVE</td><td class="cookielawinfo-column-3">5 months 27 days</td><td class="cookielawinfo-column-4">Ce cookie est défini par Youtube. Utilisé pour suivre les informations des vidéos YouTube intégrées sur un site Web.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">YSC</td><td class="cookielawinfo-column-3">session</td><td class="cookielawinfo-column-4">Ce cookie est défini par Youtube et est utilisé pour suivre les vues des vidéos intégrées.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">yt.innertube::nextId</td><td class="cookielawinfo-column-3">never</td><td class="cookielawinfo-column-4">Ce cookie, défini par YouTube, enregistre un identifiant unique pour stocker des données sur les vidéos de YouTube que l'utilisateur a vues.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">yt.innertube::requests</td><td class="cookielawinfo-column-3">never</td><td class="cookielawinfo-column-4">Ce cookie, défini par YouTube, enregistre un identifiant unique pour stocker des données sur les vidéos de YouTube que l'utilisateur a vues.</td></tr></tbody></table></div>
+                            </div>
+                        </div>
+                    </div>
+                                    <div class="cli-tab-section">
+                        <div class="cli-tab-header">
+                            <a id="wt-cli-tab-link-others" tabindex="0" role="tab" aria-expanded="false" aria-describedby="wt-cli-tab-others" aria-controls="wt-cli-tab-others" class="cli-nav-link cli-settings-mobile" data-target="others" data-toggle="cli-toggle-tab">
+                                Others                            </a>
+                                                                                        <div class="cli-switch">
+                                    <input type="checkbox" class="cli-user-preference-checkbox"  id="wt-cli-checkbox-others" aria-label="others" data-id="checkbox-others" role="switch" aria-controls="wt-cli-tab-link-others" aria-labelledby="wt-cli-tab-link-others"  />
+                                    <label for="wt-cli-checkbox-others" class="cli-slider" data-cli-enable="Activée" data-cli-disable="Désactivée"><span class="wt-cli-sr-only">others</span></label>
+                                </div>
+                                                    </div>
+                        <div class="cli-tab-content">
+                            <div id="wt-cli-tab-others" tabindex="0" role="tabpanel" aria-labelledby="wt-cli-tab-link-others" class="cli-tab-pane cli-fade" data-id="others">
+                            <div class="wt-cli-cookie-description">Les autres cookies non classés sont ceux qui sont en cours d'analyse et qui n'ont pas encore été classés dans une catégorie.
+<table class="wt-cli-element cookielawinfo-row-cat-table cookielawinfo-winter"><thead><tr><th scope="col" class="cookielawinfo-column-1">Cookie</th><th scope="col" class="cookielawinfo-column-3">Durée</th><th scope="col" class="cookielawinfo-column-4">Description</th></tr></thead><tbody><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">_OG_GDPR_COOKIE_</td><td class="cookielawinfo-column-3">session</td><td class="cookielawinfo-column-4">Aucune description.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">aff</td><td class="cookielawinfo-column-3">1 month</td><td class="cookielawinfo-column-4">Aucune description.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">CONSENT</td><td class="cookielawinfo-column-3">16 years 6 months 2 days 16 hours 6 minutes</td><td class="cookielawinfo-column-4">Aucune description.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">DEVICE_INFO</td><td class="cookielawinfo-column-3">5 months 27 days</td><td class="cookielawinfo-column-4">Aucune description.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">site</td><td class="cookielawinfo-column-3"></td><td class="cookielawinfo-column-4">Aucune description</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">stdvid</td><td class="cookielawinfo-column-3">1 year 24 days</td><td class="cookielawinfo-column-4">Aucune description</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">yt-remote-connected-devices</td><td class="cookielawinfo-column-3">never</td><td class="cookielawinfo-column-4">YouTube définit ce cookie pour stocker les préférences vidéo de l'utilisateur à l'aide de la vidéo YouTube intégrée.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">yt-remote-device-id</td><td class="cookielawinfo-column-3">never</td><td class="cookielawinfo-column-4">YouTube définit ce cookie pour stocker les préférences vidéo de l'utilisateur à l'aide de la vidéo YouTube intégrée.</td></tr></tbody></table></div>
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+        </div>
+    </div>
+</div>
+<div class="cli-modal-footer">
+    <div class="wt-cli-element cli-container-fluid cli-tab-container">
+        <div class="cli-row">
+            <div class="cli-col-12 cli-align-items-stretch cli-px-0">
+                <div class="cli-tab-footer wt-cli-privacy-overview-actions">
+                                                            
+                                                    <a id="wt-cli-privacy-save-btn" role="button" tabindex="0" data-cli-action="accept" class="wt-cli-privacy-btn cli_setting_save_button wt-cli-privacy-accept-btn cli-btn">Enregistrer et accepter</a>
+                                                                            
+                               
+                    
+                </div>
+                                    <div class="wt-cli-ckyes-footer-section">
+                        <div class="wt-cli-ckyes-brand-logo">Propulsé par <a target="_blank" href="https://www.webtoffee.com/"><img src="https://www.cpe.fr/wp-content/plugins/webtoffee-gdpr-cookie-consent/images/webtoffee-logo.svg" alt="WebToffee Logo"></a></div>
+                    </div>
+                             </div>
+        </div>
+    </div>
+</div>
+    </div>
+  </div>
+</div>
+<div class="cli-modal-backdrop cli-fade cli-settings-overlay"></div>
+<div class="cli-modal-backdrop cli-fade cli-popupbar-overlay"></div>
+<!--googleon: all--></div>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			cli_cookiebar_settings='{"animate_speed_hide":"500","animate_speed_show":"500","background":"rgba(255, 255, 255, 0.97)","border":"#b1a6a6c2","border_on":false,"button_1_button_colour":"rgb(97, 162, 41)","button_1_button_hover":"rgb(97, 162, 41)","button_1_link_colour":"#fff","button_1_as_button":true,"button_1_new_win":false,"button_2_button_colour":"rgb(255, 255, 255)","button_2_button_hover":"rgb(255, 255, 255)","button_2_link_colour":"#898888","button_2_as_button":true,"button_2_hidebar":false,"button_2_nofollow":false,"button_3_button_colour":"rgb(11, 187, 239)","button_3_button_hover":"rgb(11, 187, 239)","button_3_link_colour":"rgb(255, 255, 255)","button_3_as_button":true,"button_3_new_win":false,"button_4_button_colour":"rgb(11, 187, 239)","button_4_button_hover":"rgb(11, 187, 239)","button_4_link_colour":"#0bbbef","button_4_as_button":false,"button_7_button_colour":"rgb(11, 187, 239)","button_7_button_hover":"rgb(11, 187, 239)","button_7_link_colour":"rgb(255, 255, 255)","button_7_as_button":true,"button_7_new_win":false,"font_family":"inherit","header_fix":false,"notify_animate_hide":true,"notify_animate_show":false,"notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":false,"scroll_close_reload":false,"accept_close_reload":false,"reject_close_reload":false,"showagain_tab":true,"showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"rgb(51, 51, 51)","show_once_yn":false,"show_once":"10000","logging_on":false,"as_popup":false,"popup_overlay":true,"bar_heading_text":"Ce site web utilise des cookies","cookie_bar_as":"popup","cookie_setting_popup":true,"accept_all":true,"js_script_blocker":false,"popup_showagain_position":"bottom-right","widget_position":"left","button_1_style":[["margin","5px 5px 5px 30px"],["border-radius","0"],["padding","8px 25px 8px 25px"]],"button_2_style":[],"button_3_style":[["border-radius","0px"],["padding","8px 25px"],["border-color","rgb(255, 255, 255)"],["text-align","center"],["margin-top","2rem"],[""]],"button_4_style":[["border-radius","0px"],["margin-top","1rem"],["grid-column","1 \/ 3"],["width","calc(50% - 0.5rem)"],["padding","8px 25px"],["justify-self","center"],["text-align","center"],["border-color","rgb(255, 255, 255)"]],"button_5_style":{"0":["float","right"],"1":["text-decoration","none"],"2":["color","#333"],"3":["background-color","rgba(0, 0, 0, 0)"],"6":["background-color","rgba(0, 0, 0, 0)"]},"button_7_style":[["border-radius","0px"],["padding","8px 25px"],["border-color","rgb(255, 255, 255)"],["text-align","center"],["margin-top","2rem"],[""]],"accept_close_page_navigation":false,"button_8_button_colour":"#DEDFE0","button_8_button_hover":"#b2b2b3","button_8_link_colour":"#000000","button_8_as_button":"1","button_8_new_win":"","consent_mode":false}';
+		/* ]]> */
+		</script>
+		<link rel='stylesheet' id='cookie-law-info-table-css' href='https://www.cpe.fr/wp-content/plugins/webtoffee-gdpr-cookie-consent/public/css/cookie-law-info-table.css?ver=2.5.7' type='text/css' media='all' />
+<script type="text/javascript" src="https://www.cpe.fr/wp-content/themes/acti-main/js/skip-link-focus-fix.js?ver=20160816" id="twentysixteen-skip-link-focus-fix-js"></script>
+<script>window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://www.cpe.fr/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script>
+</div>
+
+<script src="https://www.cpe.fr/wp-content/themes/acti-main/dist/js/libs/jquery.min.js"></script>
+<script src="https://www.cpe.fr/wp-content/themes/acti-main/dist/js/libs/jquery.easing.1.3.min.js"></script>
+
+<script src="https://www.cpe.fr/wp-content/themes/acti-main/dist/js/libs/jquery.bxslider.min.js"></script>
+<script src="https://www.cpe.fr/wp-content/themes/acti-main/dist/js/libs/imagesloaded.pkgd.min.js"></script>
+<script src="https://www.cpe.fr/wp-content/themes/acti-main/dist/js/libs/jquery.colorbox-min.js"></script>
+<script src="https://www.cpe.fr/wp-content/themes/acti-main/dist/js/libs/jquery.infinitescroll.min.js"></script>
+
+<script src="https://www.cpe.fr/wp-content/themes/acti-main/dist/js/all.js"></script>
+<script src="https://www.cpe.fr/wp-content/themes/acti-main/js/functions.js"></script>
+
+<script id="studizz-script" src="https://webchat.studizz.fr/webchat.js?token=55c25ab175549ae13287dcad"></script>
+
+</body>
+</html>

@@ -1,0 +1,20 @@
+/* TEAM */
+Developer & Designer: Guillaume Robier
+Site: https://guillaume.robier.org
+Location: Lyon, France
+
+/* TECHNOLOGY COLOPHON */
+Standards: PHP 8.x, HTML5, CSS3 Custom Properties
+Languages: PHP, CSS, JavaScript (vanilla)
+Software: neovim, git
+Hosted on: LAMP (hébergement mutualisé)
+
+/* SITE */
+Last update: 2026/05/21
+Language: French
+Doctype: HTML5
+IDE: Visual Studio Code
+Standards: WCAG 2.1 AA
+
+/* PHILOSOPHY */
+"Infrastructure first. No frameworks needed." — G.R.
