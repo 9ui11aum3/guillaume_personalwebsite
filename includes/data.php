@@ -163,15 +163,26 @@ $realisations = [
         'icon'    => 'layers',
     ],
     [
-        'id'      => 'securite-seveso',
-        'title'   => 'Sécurisation périmétrique sites SEVESO & nucléaires',
-        'client'  => 'EDF, ORANO, Eutelsat',
-        'sector'  => 'Nucléaire / Énergie / Défense',
+        'id'      => 'securite-critique',
+        'title'   => 'Sécurisation périmétrique — Sites industriels critiques',
+        'client'  => 'Grands comptes (confidentiel)',
+        'sector'  => 'Industrie critique / Énergie / Défense',
         'year'    => '2025',
-        'desc'    => 'Déploiements du système JAGUAR (Odonaview) sur sites à contraintes critiques : EDF, ORANO MELOX, Eutelsat, RTE. Détection d\'intrusion périmétrique par IA vidéo.',
+        'desc'    => 'Déploiements du système JAGUAR (Odonaview) sur plusieurs sites à contraintes réglementaires très strictes dans les secteurs de l\'énergie, de la défense et des télécommunications. Détection d\'intrusion périmétrique par IA vidéo, intégration aux VMS existants.',
         'stack'   => ['JAGUAR', 'IA Vision', 'Linux embarqué', 'ONVIF', 'VMS'],
-        'impact'  => '5 sites critiques sécurisés, conformité réglementaire, taux de fausse alarme < 1%',
+        'impact'  => '5+ sites critiques sécurisés, conformité réglementaire atteinte, taux de fausse alarme < 1%',
         'icon'    => 'shield',
+    ],
+    [
+        'id'      => 'reportlinker-infra',
+        'title'   => 'Administration & automatisation — parc de plusieurs centaines de serveurs',
+        'client'  => 'ReportLinker',
+        'sector'  => 'Data Intelligence / SaaS',
+        'year'    => '2022',
+        'desc'    => 'Administration et maintien en condition opérationnelle d\'un parc de plusieurs centaines de serveurs Linux pour la plateforme de veille et d\'intelligence marché ReportLinker. Mise en place d\'Ansible pour l\'automatisation du déploiement et de la gestion de configuration à grande échelle. Opération des clusters Elasticsearch (indexation de millions de documents), des bases PostgreSQL critiques et de l\'ensemble de la chaîne de traitement de données.',
+        'stack'   => ['Ansible', 'Elasticsearch', 'PostgreSQL', 'Linux', 'Python', 'Docker', 'Redis', 'Nginx'],
+        'impact'  => 'Gestion centralisée de centaines de nœuds, déploiements zero-downtime, réduction du temps d\'intervention grâce à l\'automatisation Ansible',
+        'icon'    => 'server',
     ],
     [
         'id'      => 'vxlan-evpn',
@@ -305,19 +316,18 @@ $expertises = [
 $stats = [
     ['value' => '10+',    'label' => 'ans d\'expérience',           'icon' => 'calendar'],
     ['value' => 'AS61193','label' => 'ASN BGP public opéré',        'icon' => 'globe'],
-    ['value' => '5',      'label' => 'sites critiques sécurisés',   'icon' => 'shield'],
+    ['value' => '5+',     'label' => 'sites industriels critiques', 'icon' => 'shield'],
     ['value' => '2',      'label' => 'entreprises dirigées',        'icon' => 'briefcase'],
 ];
 
-// ─── CLIENTS / PARTENAIRES ───────────────────────────────────────────────────
+// ─── SECTEURS / RÉFÉRENCES (pas de noms de clients sensibles) ────────────────
 $clients = [
-    ['name' => 'EDF',           'logo' => '/assets/img/clients/edf.svg'],
-    ['name' => 'Thales',        'logo' => '/assets/img/clients/thales.svg'],
-    ['name' => 'ORANO',         'logo' => '/assets/img/clients/orano.svg'],
-    ['name' => 'Eutelsat',      'logo' => '/assets/img/clients/eutelsat.svg'],
-    ['name' => 'RTE',           'logo' => '/assets/img/clients/rte.svg'],
-    ['name' => 'TotalEnergies', 'logo' => '/assets/img/clients/totalenergies.svg'],
-    ['name' => 'GreenYellow',   'logo' => '/assets/img/clients/greenyellow.png'],
+    ['name' => 'Énergie',            'logo' => ''],
+    ['name' => 'Industrie critique', 'logo' => ''],
+    ['name' => 'Défense',            'logo' => ''],
+    ['name' => 'Télécoms & Espace',  'logo' => ''],
+    ['name' => 'Data & SaaS',        'logo' => ''],
+    ['name' => 'Renouvable',         'logo' => ''],
 ];
 
 // ─── STACK SYIT ─────────────────────────────────────────────────────────────

@@ -220,7 +220,7 @@ include __DIR__ . '/includes/header.php';
         ['icon' => '🛡', 'sector' => 'Défense', 'desc' => 'Sécurisation de périmètres militaires, bases, entrepôts de matériels sensibles.'],
         ['icon' => '🚂', 'sector' => 'Transport', 'desc' => 'Gares, aéroports, dépôts. Analyse de flux, gestion des accès, détection d\'intrusions.'],
         ['icon' => '🏭', 'sector' => 'Industrie SEVESO', 'desc' => 'Protection des sites chimiques et industriels à risques. Conformité Loi Bachelot.'],
-        ['icon' => '🌐', 'sector' => 'Télécoms / Espace', 'desc' => 'Data centers, stations sol, sites d\'infrastructure critique (Eutelsat, opérateurs).'],
+        ['icon' => '🌐', 'sector' => 'Télécoms / Espace', 'desc' => 'Data centers, stations sol, sites d\'infrastructure critique — opérateurs télécoms et acteurs du spatial.'],
       ];
       foreach ($use_cases as $uc): ?>
         <div class="card fade-up" style="text-align:center;">
@@ -235,21 +235,28 @@ include __DIR__ . '/includes/header.php';
 
 
 <!-- ═══════════════════════════════════════════════════════
-     CLIENTS RÉFÉRENCE
+     SECTEURS DE RÉFÉRENCE
      ═══════════════════════════════════════════════════════ -->
 <section aria-labelledby="clients-odo-title">
   <div class="container">
     <div class="section-header">
-      <span class="eyebrow">Références</span>
-      <h2 id="clients-odo-title">Clients de référence</h2>
-      <p>Des organisations parmi les plus exigeantes au monde.</p>
+      <span class="eyebrow">Secteurs</span>
+      <h2 id="clients-odo-title">Déployé chez des acteurs de premier plan</h2>
+      <p>Des organisations parmi les plus exigeantes en matière de sécurité et de conformité réglementaire.</p>
     </div>
 
     <div class="clients-band" style="justify-content:center;">
       <?php
-      $clients_odo = ['EDF', 'Thales', 'ORANO', 'Eutelsat', 'RTE', 'ILL', 'Elengy'];
-      foreach ($clients_odo as $name): ?>
-        <span class="tech-badge" style="font-size:0.875rem;padding:0.6rem 1.2rem;"><?= e($name) ?></span>
+      $secteurs_odo = [
+        'Opérateurs nucléaires',
+        'Acteurs de la défense',
+        'Gestionnaires de réseaux d\'énergie',
+        'Opérateurs télécoms & spatial',
+        'Laboratoires de recherche',
+        'Sites SEVESO & INB',
+      ];
+      foreach ($secteurs_odo as $s): ?>
+        <span class="tech-badge" style="font-size:0.875rem;padding:0.6rem 1.2rem;"><?= e($s) ?></span>
       <?php endforeach; ?>
     </div>
   </div>

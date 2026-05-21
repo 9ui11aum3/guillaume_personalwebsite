@@ -271,24 +271,14 @@ include __DIR__ . '/includes/header.php';
 <section aria-labelledby="clients-title">
   <div class="container">
     <div class="section-header">
-      <span class="eyebrow">Ils m'ont fait confiance</span>
-      <h2 id="clients-title" style="font-size:1.25rem;color:var(--text-muted);font-weight:500;">
-        Secteurs : Énergie · Défense · Industrie · Télécoms · Espace
-      </h2>
+      <span class="eyebrow">Secteurs d'intervention</span>
+      <h2 id="clients-title">Clients grands comptes &amp; PME</h2>
+      <p>Interventions auprès d'acteurs industriels, de sociétés SaaS et de PME dans des contextes à fortes contraintes techniques et réglementaires.</p>
     </div>
 
     <div class="clients-band">
       <?php foreach ($clients as $c): ?>
-        <?php if (!empty($c['logo'])): ?>
-          <img src="<?= e($c['logo']) ?>"
-               alt="<?= e($c['name']) ?>"
-               class="client-logo"
-               height="36"
-               loading="lazy"
-               data-fallback="<?= e($c['name']) ?>">
-        <?php else: ?>
-          <span class="tech-badge" style="opacity:0.5;"><?= e($c['name']) ?></span>
-        <?php endif; ?>
+        <span class="tech-badge" style="font-size:0.875rem;padding:0.6rem 1.2rem;"><?= e($c['name']) ?></span>
       <?php endforeach; ?>
     </div>
   </div>

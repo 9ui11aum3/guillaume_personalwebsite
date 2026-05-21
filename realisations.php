@@ -4,7 +4,7 @@ require_once __DIR__ . '/includes/helpers.php';
 require_once __DIR__ . '/includes/data.php';
 
 $page_title = 'Réalisations — Guillaume Robier';
-$page_description = 'Portfolio de projets IT : infrastructure, virtualisation, cybersécurité, IA vidéo, ERP. Projets pour EDF, TotalEnergies, GreenYellow et clients confidentiels.';
+$page_description = 'Portfolio de projets IT : infrastructure à grande échelle, virtualisation, cybersécurité, IA vidéo, ERP. Clients grands comptes et PME dans l\'énergie, la défense, le SaaS et l\'industrie.';
 
 include __DIR__ . '/includes/header.php';
 ?>
