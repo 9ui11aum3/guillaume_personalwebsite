@@ -50,7 +50,7 @@ include __DIR__ . '/includes/header.php';
         <div class="fade-up">
           <div style="display:flex;align-items:center;gap:var(--space-md);margin-bottom:var(--space-xl);">
             <div style="width:52px;height:52px;border-radius:var(--radius-md);background:rgba(<?= str_replace(['var(--', ')'], '', $color) ?>,0.1);border:1px solid rgba(<?= str_replace(['var(--', ')'], '', $color) ?>,0.2);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
-              <?php echo render_icon_exp($exp['icon'], $color); ?>
+              <?php echo icon($exp['icon'], 26, $color); ?>
             </div>
             <div>
               <p style="font-family:var(--font-mono);font-size:0.7rem;font-weight:600;text-transform:uppercase;letter-spacing:0.1em;color:<?= $color ?>;margin-bottom:2px;">Expertise</p>
@@ -114,19 +114,5 @@ include __DIR__ . '/includes/header.php';
 </section>
 
 <?php
-
-function render_icon_exp(string $name, string $color): string
-{
-    $icons = [
-        'shield'    => '<path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>',
-        'server'    => '<rect x="2" y="2" width="20" height="8" rx="2"/><rect x="2" y="14" width="20" height="8" rx="2"/><line x1="6" y1="6" x2="6.01" y2="6"/><line x1="6" y1="18" x2="6.01" y2="18"/>',
-        'network'   => '<rect x="9" y="2" width="6" height="6"/><rect x="16" y="16" width="6" height="6"/><rect x="2" y="16" width="6" height="6"/><path d="M5 16V8h14v8M12 8v8"/>',
-        'briefcase' => '<rect x="2" y="7" width="20" height="14" rx="2"/><path d="M16 7V5a2 2 0 0 0-4 0v2M12 12v4M8 12v4"/>',
-        'cpu'       => '<rect x="4" y="4" width="16" height="16" rx="2"/><rect x="9" y="9" width="6" height="6"/>',
-    ];
-    $path = $icons[$name] ?? $icons['server'];
-    return '<svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="' . $color . '" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">' . $path . '</svg>';
-}
-
 include __DIR__ . '/includes/footer.php';
 ?>
